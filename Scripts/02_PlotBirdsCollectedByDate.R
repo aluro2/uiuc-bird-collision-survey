@@ -25,12 +25,6 @@ bird_data <-
     everything()
   )
 
-# List of set species names
-species_list <-
-  read_csv("Data/SpeciesList.csv") %>%
-  pull(SpeciesList)
-
-
 # Birds found by date/year ------------------------------------------------
 
 PlotData <-
