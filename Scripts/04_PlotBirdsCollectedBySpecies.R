@@ -39,7 +39,7 @@ bird_data <-
 
 # species Plot ------------------------------------------------------------
 
-#species_plot <-
+species_plot <-
   bird_data %>%
   select(species) %>%
   # Remove scientific names
