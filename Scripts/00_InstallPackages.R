@@ -5,6 +5,8 @@ packages <- c("tidyverse",
               "ggthemes",
               "DT",
               "stringr",
-              "scales")
+              "scales",
+              "ggmap",
+              "ggrepel")
 
 install.packages(packages)
