@@ -1,0 +1,869 @@
+date_mm_dd_yyyy,route_shift,route_name,building_name,any_birds_found_on_route_shift,building_face_direction,species,found_dead_alive
+2019-09-16,AM,South Quad,Temple Hoyne Buell Hall_339,Yes,East,Black-and-white Warbler_Mniotilta varia,Dead
+2019-09-16,AM,North Quad,Beckman Institute_228,Yes,North,Scarlet Tanager_Piranga olivacea,Dead
+2019-09-16,AM,North Quad,Grainger Engineering Library Information Center_324,Yes,South,Common Yellowthroat_Geothlypis trichas,Dead
+2019-09-16,AM,North Quad,Electrical and Computer Engineering_409,Yes,South,Magnolia Warbler_Setophaga magnolia,Dead
+2019-09-16,AM,North Quad,Electrical and Computer Engineering_409,Yes,North,Swainson's Thrush_Catharus ustulatus,Dead
+2019-09-16,AM,North Quad,Electrical and Computer Engineering_409,Yes,South,Black-and-white Warbler_Mniotilta varia,Dead
+2019-09-16,AM,North Quad,Beckman Institute_228,Yes,North,Swainson's Thrush_Catharus ustulatus,Alive
+2019-09-16,AM,North Quad,Beckman Institute_228,Yes,North,Unidentifiable,Dead
+2019-09-16,AM,North Quad,Beckman Institute_228,Yes,North,Unidentifiable,Dead
+2019-09-16,AM,North Quad,Grainger Engineering Library Information Center_324,Yes,North,Unidentifiable,Dead
+2019-09-16,PM,North Quad,Beckman Institute_228,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Dead
+2019-09-16,PM,North Quad,Beckman Institute_228,Yes,North,Northern Parula_Setophaga americana,Dead
+2019-09-16,PM,North Quad,Beckman Institute_228,Yes,South,Magnolia Warbler_Setophaga magnolia,Dead
+2019-09-16,PM,North Quad,Beckman Institute_228,Yes,South,Magnolia Warbler_Setophaga magnolia,Dead
+2019-09-16,PM,North Quad,Electrical and Computer Engineering_409,Yes,South,Tennessee Warbler_Oreothlypis peregrina,Dead
+2019-09-16,PM,North Quad,Beckman Institute_228,Yes,South,NA,Dead
+2019-09-16,PM,North Quad,Beckman Institute_228,Yes,South,American Redstart_Setophaga ruticilla,Dead
+2019-09-16,PM,North Quad,Beckman Institute_228,Yes,North,Unidentifiable,Dead
+2019-09-16,PM,North Quad,Beckman Institute_228,Yes,North,Unidentifiable,Dead
+2019-09-16,PM,North Quad,Beckman Institute_228,Yes,South,Unidentifiable,Dead
+2019-09-16,PM,North Quad,Beckman Institute_228,Yes,South,Swainson's Thrush_Catharus ustulatus,Dead
+2019-09-16,PM,North Quad,Beckman Institute_228,Yes,South,Unidentifiable,Dead
+2019-09-16,PM,North Quad,Beckman Institute_228,Yes,South,Swainson's Thrush_Catharus ustulatus,Dead
+2019-09-16,PM,North Quad,Beckman Institute_228,Yes,South,Unidentifiable,Dead
+2019-09-16,PM,North Quad,Beckman Institute_228,Yes,South,Unidentifiable,Dead
+2019-09-16,PM,North Quad,Beckman Institute_228,Yes,South,Unidentifiable,Dead
+2019-09-16,PM,North Quad,Beckman Institute_228,Yes,South,Unidentifiable,Dead
+2019-09-16,PM,North Quad,Beckman Institute_228,Yes,South,Tennessee Warbler_Oreothlypis peregrina,Dead
+2019-09-16,PM,North Quad,Beckman Institute_228,Yes,South,Unidentifiable,Dead
+2019-09-16,PM,North Quad,Coordinated Science Laboratory_148,Yes,West,Unidentifiable,Dead
+2019-09-16,PM,North Quad,Coordinated Science Laboratory_148,Yes,West,Unidentifiable,Dead
+2019-09-16,PM,North Quad,Coordinated Science Laboratory_148,Yes,West,Tennessee Warbler_Oreothlypis peregrina,Dead
+2019-09-16,PM,North Quad,Coordinated Science Laboratory_148,Yes,West,Golden-winged Warbler_Vermivora chrysoptera,Dead
+2019-09-16,PM,North Quad,Electrical and Computer Engineering_409,Yes,East,Unidentifiable,Dead
+2019-09-16,PM,South Quad,Agricultural Engineering Sciences Building_8,Yes,West,Red-eyed Vireo_Vireo olivaceus,Dead
+2019-09-16,PM,South Quad,Temple Hoyne Buell Hall_339,Yes,North,Ovenbird_Seiurus aurocapilla,Dead
+2019-09-17,AM,South Quad,Temple Hoyne Buell Hall_339,Yes,West,Blackpoll Warbler_Setophaga striata,Dead
+2019-09-17,AM,South Quad,Temple Hoyne Buell Hall_339,Yes,West,Ovenbird_Seiurus aurocapilla,Dead
+2019-09-17,AM,South Quad,Temple Hoyne Buell Hall_339,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Alive
+2019-09-17,AM,North Quad,Beckman Institute_228,Yes,North,Bay-breasted Warbler_Setophaga castanea,Dead
+2019-09-18,AM,South Quad,Agricultural Engineering Sciences Building_8,Yes,South,Unidentifiable,Dead
+2019-09-18,AM,South Quad,Temple Hoyne Buell Hall_339,Yes,South,Acadian Flycatcher_Empidonax virescens,Alive
+2019-09-18,AM,South Quad,Business Instructional Facility_1206,Yes,South,Swainson's Thrush_Catharus ustulatus,Dead
+2019-09-17,PM,Main Quad,Chemical & Life Sciences Laboratory_70,Yes,South,Unidentifiable,Dead
+2019-09-17,PM,Main Quad,Chemical & Life Sciences Laboratory_70,Yes,South,Unidentifiable,Dead
+2019-09-17,PM,Main Quad,Chemical & Life Sciences Laboratory_70,Yes,North,Unidentifiable,Dead
+2019-09-17,PM,South Quad,Agricultural Engineering Sciences Building_8,Yes,West,Swainson's Thrush_Catharus ustulatus,Dead
+2019-09-17,PM,South Quad,Krannert Art Museum_220,Yes,South,Red-eyed Vireo_Vireo olivaceus,Dead
+2019-09-18,AM,South Quad,Agricultural Engineering Sciences Building_8,Yes,West,Swainson's Thrush_Catharus ustulatus,Dead
+2019-09-18,AM,Main Quad,Burrill Hall_138,Yes,South,Magnolia Warbler_Setophaga magnolia,Dead
+2019-09-18,AM,North Quad,Coordinated Science Laboratory_148,Yes,West,Golden-winged Warbler_Vermivora chrysoptera,Dead
+2019-09-18,AM,North Quad,Electrical and Computer Engineering_409,Yes,East,Brown Thrasher_Toxostoma rufum,Dead
+2019-09-18,AM,North Quad,Micro and Nanotechnology Laboratory_237,Yes,East,Yellow Warbler_Setophaga petechia,Dead
+2019-09-17,PM,North Quad,Beckman Institute_228,Yes,South,Unidentifiable,Dead
+2019-09-17,PM,North Quad,Electrical and Computer Engineering_409,Yes,East,Unidentifiable,Dead
+2019-09-17,PM,North Quad,Electrical and Computer Engineering_409,Yes,South,Unidentifiable,Dead
+2019-09-17,PM,North Quad,Micro and Nanotechnology Laboratory_237,Yes,East,Unidentifiable,Dead
+2019-09-17,PM,North Quad,Grainger Engineering Library Information Center_324,Yes,North,Unidentifiable,Dead
+2019-09-17,PM,North Quad,Beckman Institute_228,Yes,South,Chestnut-sided Warbler_Setophaga pensylvanica,Dead
+2019-09-17,PM,North Quad,Beckman Institute_228,Yes,South,American Redstart_Setophaga ruticilla,Dead
+2019-09-17,PM,North Quad,Micro and Nanotechnology Laboratory_237,Yes,East,Magnolia Warbler_Setophaga magnolia,Dead
+2019-09-18,PM,North Quad,Beckman Institute_228,Yes,South,Unidentifiable,Dead
+2019-09-18,PM,North Quad,Beckman Institute_228,Yes,South,Black-and-white Warbler_Mniotilta varia,Dead
+2019-09-18,PM,North Quad,Beckman Institute_228,Yes,South,Swainson's Thrush_Catharus ustulatus,Dead
+2019-09-18,PM,North Quad,Beckman Institute_228,Yes,South,Nashville Warbler_Oreothlypis ruficapilla,Dead
+2019-09-18,PM,North Quad,Electrical and Computer Engineering_409,Yes,East,Unidentifiable,Dead
+2019-09-19,AM,North Quad,Everitt Electrical & Computer Engineering Laboratory_37,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Dead
+2019-09-19,PM,North Quad,Electrical and Computer Engineering_409,Yes,South,Tennessee Warbler_Oreothlypis peregrina,Dead
+2019-09-19,PM,South Quad,Agricultural Engineering Sciences Building_8,Yes,West,Yellow-rumped Warbler_Setophaga coronata,Dead
+2019-09-20,AM,South Quad,Temple Hoyne Buell Hall_339,Yes,West,Wilson's Warbler_Cardellina pusilla,Dead
+2019-09-21,PM,Main Quad,Chemical & Life Sciences Laboratory_70,Yes,North,Unidentifiable,Dead
+2019-09-22,AM,Main Quad,Chemistry Annex_10,Yes,North,thrush sp.,Dead
+2019-09-22,AM,Other (explain in notes),Agricultural Engineering Sciences Building_8,Yes,West,Unidentifiable,Dead
+2019-09-20,PM,South Quad,Law Building_156,Yes,South,Blackpoll Warbler_Setophaga striata,Dead
+2019-09-21,AM,North Quad,Digital Computer Laboratory_210,Yes,North,Swainson's Thrush_Catharus ustulatus,Dead
+2019-09-21,AM,North Quad,Newmark Civil Engineering Building_24,Yes,East,Ovenbird_Seiurus aurocapilla,Dead
+2019-09-21,AM,North Quad,Grainger Engineering Library Information Center_324,Yes,North,American Robin_Turdus migratorius,Dead
+2019-09-21,AM,North Quad,Beckman Institute_228,Yes,West,Bay-breasted Warbler_Setophaga castanea,Dead
+2019-09-21,AM,North Quad,Micro and Nanotechnology Laboratory_237,Yes,North,Bay-breasted Warbler_Setophaga castanea,Dead
+2019-09-21,AM,North Quad,Coordinated Science Laboratory_148,Yes,West,Unidentifiable,Dead
+2019-09-22,AM,North Quad,North Campus Parking Deck_1094,Yes,North,Bay-breasted Warbler_Setophaga castanea,Dead
+2019-09-22,AM,North Quad,Beckman Institute_228,Yes,South,Indigo Bunting_Passerina cyanea,Dead
+2019-09-22,AM,North Quad,Beckman Institute_228,Yes,West,Chestnut-sided Warbler_Setophaga pensylvanica,Alive
+2019-09-20,PM,North Quad,Beckman Institute_228,Yes,North,Unidentifiable,Dead
+2019-09-20,PM,North Quad,Beckman Institute_228,Yes,South,Chestnut-sided Warbler_Setophaga pensylvanica,Dead
+2019-09-20,PM,North Quad,Coordinated Science Laboratory_148,Yes,West,Bay-breasted Warbler_Setophaga castanea,Dead
+2019-09-20,PM,North Quad,Coordinated Science Laboratory_148,Yes,West,Unidentifiable,Dead
+2019-09-20,PM,North Quad,Electrical and Computer Engineering_409,Yes,South,Tennessee Warbler_Oreothlypis peregrina,Dead
+2019-09-20,PM,North Quad,Electrical and Computer Engineering_409,Yes,South,Ovenbird_Seiurus aurocapilla,Dead
+2019-09-21,PM,North Quad,Beckman Institute_228,Yes,East,Unidentifiable,Dead
+2019-09-24,AM,South Quad,Business Instructional Facility_1206,Yes,South,Swainson's Thrush_Catharus ustulatus,Dead
+2019-09-24,PM,North Quad,National Center for Supercomputing Applications_564,Yes,North,Unidentifiable,Dead
+2019-09-24,PM,North Quad,Beckman Institute_228,Yes,North,Rose-breasted Grosbeak_Pheucticus ludovicianus,Dead
+2019-09-24,PM,North Quad,National Center for Supercomputing Applications_564,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Dead
+2019-09-24,NA,South Quad,Education Building_160,Yes,West,Magnolia Warbler_Setophaga magnolia,Dead
+2019-09-24,PM,Main Quad,Center for Wounded Veterans in Higher Education_1494,Yes,East,NA,Dead
+2019-09-24,PM,Main Quad,Morrill Hall_242,Yes,West,Unidentifiable,Dead
+2019-09-25,AM,North Quad,Siebel Center for Computer Science_563,Yes,East,Tennessee Warbler_Oreothlypis peregrina,Dead
+2019-09-25,AM,Main Quad,Chemical & Life Sciences Laboratory_70,Yes,East,Tennessee Warbler_Oreothlypis peregrina,Dead
+2019-09-25,AM,South Quad,Agricultural Engineering Sciences Building_8,Yes,West,Nashville Warbler_Oreothlypis ruficapilla,Alive
+2019-09-25,AM,Other (explain in notes),Chemical & Life Sciences Laboratory_70,Yes,West,Tennessee Warbler_Oreothlypis peregrina,Dead
+2019-09-26,AM,Main Quad,Library_41,Yes,South,Blackburnian Warbler_Setophaga fusca,Dead
+2019-09-26,AM,South Quad,Business Instructional Facility_1206,Yes,South,Common Yellowthroat_Geothlypis trichas,Dead
+2019-09-26,AM,South Quad,Krannert Art Museum_220,Yes,South,House Wren_Troglodytes aedon,Dead
+2019-09-17,PM,South Quad,Agricultural Engineering Sciences Building_8,Yes,West,Swainson's Thrush_Catharus ustulatus,Dead
+2019-09-11,AM,Other (explain in notes),Education Building_160,Yes,West,Swainson's Thrush_Catharus ustulatus,Dead
+2019-09-10,AM,Other (explain in notes),Morrill Hall_242,Yes,North,Black-and-white Warbler_Mniotilta varia,Dead
+2019-09-26,PM,Main Quad,Chemical & Life Sciences Laboratory_70,Yes,East,Tennessee Warbler_Oreothlypis peregrina,Dead
+2019-09-26,PM,Main Quad,Roger Adams Laboratory_116,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Dead
+2019-09-26,PM,Main Quad,Chemical & Life Sciences Laboratory_70,Yes,West,Swainson's Thrush_Catharus ustulatus,Dead
+2019-09-26,PM,Main Quad,Chemical & Life Sciences Laboratory_70,Yes,West,Unidentifiable,Dead
+2019-09-26,PM,Main Quad,Chemical & Life Sciences Laboratory_70,Yes,North,American Redstart_Setophaga ruticilla,Dead
+2019-09-26,PM,Main Quad,Chemical & Life Sciences Laboratory_70,Yes,North,Rose-breasted Grosbeak_Pheucticus ludovicianus,Dead
+2019-09-26,PM,Main Quad,Chemical & Life Sciences Laboratory_70,Yes,East,Tennessee Warbler_Oreothlypis peregrina,Dead
+2019-09-26,PM,Main Quad,Chemistry Annex_10,Yes,North,Swainson's Thrush_Catharus ustulatus,Dead
+2019-09-26,PM,Main Quad,Illini Union Bookstore_106,Yes,"NA",Unidentifiable,Dead
+2019-09-26,PM,North Quad,Coordinated Science Laboratory_148,Yes,North,Unidentifiable,Dead
+2019-09-26,PM,North Quad,Coordinated Science Laboratory_148,Yes,West,Unidentifiable,Dead
+2019-09-26,PM,North Quad,Beckman Institute_228,Yes,South,House Wren_Troglodytes aedon,Alive
+2019-09-26,PM,North Quad,Electrical and Computer Engineering_409,Yes,North,Unidentifiable,Dead
+2019-09-27,AM,South Quad,Temple Hoyne Buell Hall_339,Yes,East,Acadian Flycatcher_Empidonax virescens,Dead
+2019-09-27,AM,Main Quad,Krannert Center for Performing Arts_52,Yes,East,Unidentifiable,Dead
+2019-09-28,PM,Main Quad,Chemical & Life Sciences Laboratory_70,Yes,East,Common Yellowthroat_Geothlypis trichas,Alive
+2019-09-28,PM,Main Quad,Chemical & Life Sciences Laboratory_70,Yes,East,Nashville Warbler_Oreothlypis ruficapilla,Dead
+2019-09-29,AM,South Quad,Agricultural Engineering Sciences Building_8,Yes,West,Nashville Warbler_Oreothlypis ruficapilla,Dead
+2019-09-29,AM,South Quad,Law Building_156,Yes,North,Magnolia Warbler_Setophaga magnolia,Alive
+2019-09-29,AM,South Quad,Agricultural Engineering Sciences Building_8,Yes,West,Black-and-white Warbler_Mniotilta varia,Alive
+2019-09-28,AM,North Quad,National Center for Supercomputing Applications_564,Yes,North,Unidentifiable,Dead
+2019-09-29,AM,North Quad,Beckman Institute_228,Yes,North,Red-eyed Vireo_Vireo olivaceus,Dead
+2019-09-29,PM,Main Quad,Carl R. Woese Institute for Genomic Biology_1080,Yes,North,Nashville Warbler_Oreothlypis ruficapilla,Dead
+2019-09-28,AM,North Quad,North Campus Parking Deck_1094,Yes,East,Yellow-bellied Sapsucker_Sphyrapicus varius,Dead
+2019-09-28,AM,North Quad,Beckman Institute_228,Yes,South,Magnolia Warbler_Setophaga magnolia,Dead
+2019-09-28,AM,North Quad,Micro and Nanotechnology Laboratory_237,Yes,South,Unidentifiable,Dead
+2019-09-29,AM,North Quad,Beckman Institute_228,Yes,South,Ovenbird_Seiurus aurocapilla,Dead
+2019-09-29,AM,North Quad,Beckman Institute_228,Yes,South,Unidentifiable,Dead
+2019-09-29,AM,North Quad,Beckman Institute_228,Yes,South,Unidentifiable,Dead
+2019-09-29,AM,North Quad,Beckman Institute_228,Yes,South,Unidentifiable,Dead
+2019-09-29,AM,North Quad,Beckman Institute_228,Yes,South,Unidentifiable,Dead
+2019-09-30,AM,Main Quad,Chemical & Life Sciences Laboratory_70,Yes,East,Gray Catbird_Dumetella carolinensis,Dead
+2019-09-30,PM,North Quad,Electrical and Computer Engineering_409,Yes,North,Black-and-white Warbler_Mniotilta varia,Dead
+2019-10-01,PM,North Quad,Beckman Institute_228,Yes,North,Blackpoll Warbler_Setophaga striata,Dead
+2019-10-01,PM,North Quad,Electrical and Computer Engineering_409,Yes,North,Nashville Warbler_Oreothlypis ruficapilla,Dead
+2019-10-01,PM,South Quad,Temple Hoyne Buell Hall_339,Yes,East,Magnolia Warbler_Setophaga magnolia,Dead
+2019-10-02,AM,South Quad,Agricultural Engineering Sciences Building_8,Yes,West,Unidentifiable,Dead
+2019-10-02,PM,North Quad,Beckman Institute_228,Yes,East,American Redstart_Setophaga ruticilla,Dead
+2019-10-02,AM,South Quad,Law Building_156,Yes,North,Swainson's Thrush_Catharus ustulatus,Dead
+2019-10-02,AM,South Quad,Agricultural Engineering Sciences Building_8,Yes,West,Unidentifiable,Dead
+2019-10-03,AM,North Quad,Electrical and Computer Engineering_409,Yes,North,House Wren_Troglodytes aedon,Alive
+2019-10-03,AM,North Quad,Micro and Nanotechnology Laboratory_237,Yes,East,Common Yellowthroat_Geothlypis trichas,Alive
+2019-10-03,AM,North Quad,Beckman Institute_228,Yes,East,Black-throated Green Warbler_Setophaga virens,Alive
+2019-10-03,AM,Other (explain in notes),Beckman Institute_228,Yes,East,Tennessee Warbler_Oreothlypis peregrina,Dead
+2019-10-03,AM,South Quad,"ACES Library, Information & Alumni Center_377",Yes,North,Song Sparrow_Melospiza melodia,Alive
+2019-10-03,AM,Other (explain in notes),Beckman Institute_228,Yes,South,Unidentifiable,Dead
+2019-10-03,AM,Other (explain in notes),Beckman Institute_228,Yes,South,Unidentifiable,Dead
+2019-10-03,AM,Other (explain in notes),Beckman Institute_228,Yes,South,Nashville Warbler_Oreothlypis ruficapilla,Dead
+2019-10-03,AM,Other (explain in notes),Beckman Institute_228,Yes,South,Nashville Warbler_Oreothlypis ruficapilla,Dead
+2019-10-03,AM,Other (explain in notes),Beckman Institute_228,Yes,North,American Redstart_Setophaga ruticilla,Dead
+2019-10-03,PM,Other (explain in notes),Beckman Institute_228,Yes,South,Tennessee Warbler_Oreothlypis peregrina,Dead
+2019-10-03,PM,South Quad,Business Instructional Facility_1206,Yes,South,Nashville Warbler_Oreothlypis ruficapilla,Dead
+2019-10-03,PM,Main Quad,Chemistry Annex_10,Yes,North,Unidentifiable,Dead
+2019-10-03,PM,South Quad,Agricultural Engineering Sciences Building_8,Yes,East,Black-and-white Warbler_Mniotilta varia,Alive
+2019-10-04,AM,South Quad,Agricultural Engineering Sciences Building_8,Yes,West,Unidentifiable,Alive
+2019-10-04,AM,South Quad,Agricultural Engineering Sciences Building_8,Yes,West,Palm Warbler_Setophaga palmarum,Dead
+2019-10-04,AM,North Quad,Beckman Institute_228,Yes,North,Gray Catbird_Dumetella carolinensis,Dead
+2019-10-04,AM,North Quad,Beckman Institute_228,Yes,South,Nashville Warbler_Oreothlypis ruficapilla,Alive
+2019-10-04,AM,North Quad,Siebel Center for Computer Science_563,Yes,North,House Wren_Troglodytes aedon,Alive
+2019-10-04,PM,Main Quad,Illini Union Bookstore_106,Yes,South,Unidentifiable,Dead
+2019-10-05,AM,South Quad,Agricultural Engineering Sciences Building_8,Yes,North,Common Yellowthroat_Geothlypis trichas,Alive
+2019-10-05,PM,Main Quad,Chemical & Life Sciences Laboratory_70,Yes,East,Tennessee Warbler_Oreothlypis peregrina,Dead
+2019-10-06,PM,North Quad,National Center for Supercomputing Applications_564,Yes,East,Unidentifiable,Dead
+2019-10-06,PM,North Quad,Beckman Institute_228,Yes,East,Nashville Warbler_Oreothlypis ruficapilla,Dead
+2019-10-06,PM,North Quad,Electrical and Computer Engineering_409,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Dead
+2019-10-07,AM,Main Quad,Morrill Hall_242,Yes,North,Unidentifiable,Dead
+2019-10-05,AM,North Quad,Siebel Center for Computer Science_563,Yes,West,Unidentifiable,Alive
+2019-10-05,AM,North Quad,Siebel Center for Computer Science_563,Yes,North,White-throated Sparrow_Zonotrichia albicollis,Alive
+2019-10-05,PM,North Quad,Beckman Institute_228,Yes,East,Dark-eyed Junco_Junco hyemalis,Dead
+2019-10-05,PM,North Quad,Beckman Institute_228,Yes,East,Blue-headed Vireo_Vireo solitarius,Dead
+2019-10-07,AM,South Quad,Business Instructional Facility_1206,Yes,South,Yellow-rumped Warbler_Setophaga coronata,Alive
+2019-10-07,PM,N/A,Newmark Civil Engineering Building_24,Yes,East,Common Yellowthroat_Geothlypis trichas,Dead
+2019-10-07,PM,Main Quad,Morrill Hall_242,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Dead
+2019-10-08,AM,Main Quad,Chemistry Annex_10,Yes,East,Unidentifiable,Dead
+2019-10-06,AM,North Quad,Coordinated Science Laboratory_148,Yes,West,Unidentifiable,Dead
+2019-10-06,AM,North Quad,Grainger Engineering Library Information Center_324,Yes,South,Yellow-rumped Warbler_Setophaga coronata,Alive
+2019-10-08,AM,North Quad,Coordinated Science Laboratory_148,Yes,West,Unidentifiable,Dead
+2019-10-07,PM,North Quad,Coordinated Science Laboratory_148,Yes,North,American Redstart_Setophaga ruticilla,Dead
+2019-10-07,PM,North Quad,Newmark Civil Engineering Building_24,Yes,North,Ovenbird_Seiurus aurocapilla,Dead
+2019-10-08,PM,North Quad,Siebel Center for Computer Science_563,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Dead
+2019-10-08,PM,Main Quad,Chemical & Life Sciences Laboratory_70,Yes,East,Tennessee Warbler_Oreothlypis peregrina,Dead
+2019-10-08,PM,Main Quad,Chemical & Life Sciences Laboratory_70,Yes,East,Yellow-bellied Sapsucker_Sphyrapicus varius,Alive
+2019-10-08,PM,Main Quad,Chemical & Life Sciences Laboratory_70,Yes,North,Golden-winged Warbler_Vermivora chrysoptera,Dead
+2019-10-08,PM,Main Quad,Morrill Hall_242,Yes,East,Black-throated Green Warbler_Setophaga virens,Dead
+2019-10-08,PM,South Quad,Agricultural Engineering Sciences Building_8,Yes,East,Unidentifiable,Dead
+2019-10-09,PM,North Quad,Coordinated Science Laboratory_148,Yes,West,Nashville Warbler_Oreothlypis ruficapilla,Dead
+2019-10-08,PM,North Quad,North Campus Parking Deck_1094,Yes,South,Yellow-bellied Sapsucker_Sphyrapicus varius,Dead
+2019-10-08,PM,North Quad,Beckman Institute_228,Yes,West,Tennessee Warbler_Oreothlypis peregrina,Dead
+2019-10-08,PM,North Quad,Beckman Institute_228,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Dead
+2019-10-08,PM,North Quad,Electrical and Computer Engineering_409,Yes,North,Nashville Warbler_Oreothlypis ruficapilla,Dead
+2019-10-10,AM,Main Quad,Morrill Hall_242,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Dead
+2019-10-10,AM,South Quad,Business Instructional Facility_1206,Yes,South,Lincoln's Sparrow_Melospiza lincolnii,Alive
+2019-10-10,PM,South Quad,Temple Hoyne Buell Hall_339,Yes,North,Black-throated Green Warbler_Setophaga virens,Dead
+2019-10-10,PM,South Quad,Temple Hoyne Buell Hall_339,Yes,East,Ovenbird_Seiurus aurocapilla,Dead
+2019-10-10,PM,North Quad,Electrical and Computer Engineering_409,Yes,East,Unidentifiable,Dead
+2019-10-12,PM,North Quad,Coordinated Science Laboratory_148,Yes,North,Yellow-bellied Sapsucker_Sphyrapicus varius,Dead
+2019-10-12,AM,South Quad,Agricultural Engineering Sciences Building_8,Yes,East,Black-throated Green Warbler_Setophaga virens,Alive
+2019-10-13,PM,North Quad,Beckman Institute_228,Yes,East,Nashville Warbler_Oreothlypis ruficapilla,Dead
+2019-10-12,AM,North Quad,Beckman Institute_228,Yes,North,Nashville Warbler_Oreothlypis ruficapilla,Alive
+2019-10-12,PM,North Quad,Beckman Institute_228,Yes,East,Northern Flicker_Colaptes auratus,Dead
+2019-10-12,PM,North Quad,North Campus Parking Deck_1094,Yes,North,Black-throated Green Warbler_Setophaga virens,Alive
+2019-10-15,AM,North Quad,Beckman Institute_228,Yes,North,Black-throated Green Warbler_Setophaga virens,Alive
+2019-10-15,AM,Other (explain in notes),State Farm Center_166,Yes,West,Lincoln's Sparrow_Melospiza lincolnii,Dead
+2019-10-15,AM,South Quad,Temple Hoyne Buell Hall_339,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Dead
+2019-10-14,AM,Other (explain in notes),Forbes Natural History Building_1073,Yes,West,Northern Waterthrush_Parkesia noveboracensis,Dead
+2019-10-13,PM,Main Quad,Carl R. Woese Institute for Genomic Biology_1080,Yes,South,Yellow-bellied Sapsucker_Sphyrapicus varius,Dead
+2019-10-13,PM,Main Quad,Foreign Languages Building_172,Yes,East,Yellow-bellied Sapsucker_Sphyrapicus varius,Dead
+2019-10-13,PM,Main Quad,Foreign Languages Building_172,Yes,East,Tennessee Warbler_Oreothlypis peregrina,Dead
+2019-10-10,AM,North Quad,North Campus Parking Deck_1094,Yes,North,Yellow-bellied Sapsucker_Sphyrapicus varius,Dead
+2019-10-10,AM,North Quad,Beckman Institute_228,Yes,West,Scarlet Tanager_Piranga olivacea,Alive
+2019-10-17,PM,Other (explain in notes),Agricultural Engineering Sciences Building_8,Yes,South,American Goldfinch_Spinus tristis,Dead
+2019-10-14,PM,Other (explain in notes),Temple Hoyne Buell Hall_339,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Dead
+2019-10-14,PM,Other (explain in notes),Beckman Institute_228,Yes,West,Ruby-crowned Kinglet_Regulus calendula,Dead
+2019-10-14,PM,Other (explain in notes),Beckman Institute_228,Yes,West,Tennessee Warbler_Oreothlypis peregrina,Dead
+2019-10-16,PM,Other (explain in notes),Beckman Institute_228,Yes,East,White-throated Sparrow_Zonotrichia albicollis,Dead
+2019-10-17,PM,Other (explain in notes),Temple Hoyne Buell Hall_339,Yes,North,Brown Creeper_Certhia americana,Dead
+2019-10-17,PM,Other (explain in notes),Temple Hoyne Buell Hall_339,Yes,West,Ruby-crowned Kinglet_Regulus calendula,Dead
+2019-10-17,AM,Other (explain in notes),Electrical and Computer Engineering_409,Yes,South,Tennessee Warbler_Oreothlypis peregrina,Dead
+2019-10-17,AM,Other (explain in notes),Electrical and Computer Engineering_409,Yes,East,Swamp Sparrow_Melospiza georgiana,Dead
+2019-10-17,AM,Other (explain in notes),Beckman Institute_228,Yes,West,Tennessee Warbler_Oreothlypis peregrina,Dead
+2019-10-18,AM,Other (explain in notes),Beckman Institute_228,Yes,West,Hermit Thrush_Catharus guttatus,Dead
+2019-10-17,PM,Other (explain in notes),Beckman Institute_228,Yes,East,Northern Flicker_Colaptes auratus,Dead
+2019-10-17,PM,Other (explain in notes),Beckman Institute_228,Yes,East,Scarlet Tanager_Piranga olivacea,Dead
+2020-09-13,PM,North Quad,Beckman Institute_228,Yes,East,NA,Dead
+2020-09-14,AM,South Quad,Agricultural Engineering Sciences Building_8,Yes,South,Unidentifiable,Dead
+2020-09-14,AM,South Quad,Education Building_160,Yes,West,Ovenbird_Seiurus aurocapilla,Alive
+2020-09-14,AM,South Quad,Law Building_156,Yes,North,Swainson's Thrush_Catharus ustulatus,Dead
+2020-09-14,AM,Main Quad,Carl R. Woese Institute for Genomic Biology_1080,Yes,North,American Redstart_Setophaga ruticilla,Dead
+2020-09-14,AM,Main Quad,Chemical & Life Sciences Laboratory_70,Yes,East,Swainson's Thrush_Catharus ustulatus,Dead
+2020-09-14,PM,North Quad,Beckman Institute_228,Yes,North,Ovenbird_Seiurus aurocapilla,Dead
+2020-09-14,PM,North Quad,Beckman Institute_228,Yes,South,Bay-breasted Warbler_Setophaga castanea,Dead
+2020-09-14,PM,North Quad,Beckman Institute_228,Yes,South,Swainson's Thrush_Catharus ustulatus,Dead
+2020-09-14,PM,North Quad,Electrical and Computer Engineering_409,Yes,North,Unidentifiable,Dead
+2020-09-14,PM,North Quad,Grainger Engineering Library Information Center_324,Yes,West,Unidentifiable,Dead
+2020-09-14,PM,North Quad,Grainger Engineering Library Information Center_324,Yes,North,American Crow_Corvus brachyrhynchos,Dead
+2020-09-14,AM,North Quad,Beckman Institute_228,Yes,North,Swainson's Thrush_Catharus ustulatus,Dead
+2020-09-14,AM,North Quad,Beckman Institute_228,Yes,North,Swainson's Thrush_Catharus ustulatus,Dead
+2020-09-14,AM,North Quad,Beckman Institute_228,Yes,North,Swainson's Thrush_Catharus ustulatus,Dead
+2020-09-14,AM,North Quad,Beckman Institute_228,Yes,North,Swainson's Thrush_Catharus ustulatus,Dead
+2020-09-14,AM,North Quad,Beckman Institute_228,Yes,North,Swainson's Thrush_Catharus ustulatus,Dead
+2020-09-14,AM,North Quad,Beckman Institute_228,Yes,North,Swainson's Thrush_Catharus ustulatus,Dead
+2020-09-14,AM,North Quad,Beckman Institute_228,Yes,North,Swainson's Thrush_Catharus ustulatus,Dead
+2020-09-14,AM,North Quad,Beckman Institute_228,Yes,North,Ovenbird_Seiurus aurocapilla,Dead
+2020-09-14,AM,North Quad,Beckman Institute_228,Yes,North,Black-throated Green Warbler_Setophaga virens,Alive
+2020-09-14,AM,North Quad,Coordinated Science Laboratory_148,Yes,North,Swainson's Thrush_Catharus ustulatus,Dead
+2020-09-14,AM,North Quad,Beckman Institute_228,Yes,West,Swainson's Thrush_Catharus ustulatus,Dead
+2020-09-14,AM,N/A,Fred Turner Student Services Building_188,Yes,South,Chestnut-sided Warbler_Setophaga pensylvanica,Alive
+2020-09-14,PM,South Quad,Integrated Bioprocessing Research Laboratory_1233,Yes,West,American Robin_Turdus migratorius,Dead
+2020-09-14,PM,South Quad,Education Building_160,Yes,West,Swainson's Thrush_Catharus ustulatus,Dead
+2020-09-15,AM,South Quad,Temple Hoyne Buell Hall_339,Yes,West,Blackburnian Warbler_Setophaga fusca,Dead
+2020-09-15,AM,South Quad,Law Building_156,Yes,East,Red-eyed Vireo_Vireo olivaceus,Alive
+2020-09-15,AM,North Quad,Beckman Institute_228,Yes,East,Mourning Warbler_Geothlypis philadelphia,Dead
+2020-09-15,AM,North Quad,Beckman Institute_228,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Dead
+2020-09-15,AM,North Quad,Beckman Institute_228,Yes,West,Swainson's Thrush_Catharus ustulatus,Dead
+2020-09-15,PM,North Quad,Beckman Institute_228,Yes,North,Black-and-white Warbler_Mniotilta varia,Dead
+2020-09-15,PM,North Quad,Beckman Institute_228,Yes,West,Cape May Warbler_Setophaga tigrina,Dead
+2020-09-15,PM,North Quad,Beckman Institute_228,Yes,West,Magnolia Warbler_Setophaga magnolia,Dead
+2020-09-15,PM,North Quad,Electrical and Computer Engineering_409,Yes,North,Unidentifiable,Dead
+2020-09-15,PM,North Quad,Electrical and Computer Engineering_409,Yes,South,Unidentifiable,Dead
+2020-09-15,PM,Main Quad,Carl R. Woese Institute for Genomic Biology_1080,Yes,West,Swainson's Thrush_Catharus ustulatus,Dead
+2020-09-15,PM,Main Quad,Carl R. Woese Institute for Genomic Biology_1080,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Dead
+2020-09-15,PM,Main Quad,Chemical & Life Sciences Laboratory_70,Yes,West,Bay-breasted Warbler_Setophaga castanea,Dead
+2020-09-15,PM,Main Quad,Chemical & Life Sciences Laboratory_70,Yes,West,Unidentifiable,Dead
+2020-09-15,PM,Main Quad,Chemical & Life Sciences Laboratory_70,Yes,West,Tennessee Warbler_Oreothlypis peregrina,Dead
+2020-09-15,PM,North Quad,North Campus Parking Deck_1094,Yes,North,House Sparrow_Passer domesticus,Dead
+2020-09-15,PM,North Quad,Beckman Institute_228,Yes,East,Bay-breasted Warbler_Setophaga castanea,Dead
+2020-09-15,PM,North Quad,Electrical and Computer Engineering_409,Yes,East,Ovenbird_Seiurus aurocapilla,Dead
+2020-09-15,PM,South Quad,Business Instructional Facility_1206,Yes,South,NA,Alive
+2020-09-15,PM,South Quad,Agricultural Engineering Sciences Building_8,Yes,West,NA,Dead
+2020-09-16,AM,South Quad,Business Instructional Facility_1206,Yes,South,Unidentifiable,Dead
+2020-09-16,AM,South Quad,Law Building_156,Yes,North,Bay-breasted Warbler_Setophaga castanea,Dead
+2020-09-16,AM,North Quad,Beckman Institute_228,Yes,South,Magnolia Warbler_Setophaga magnolia,Dead
+2020-09-16,PM,South Quad,Agricultural Engineering Sciences Building_8,Yes,North,NA,Dead
+2020-09-16,PM,South Quad,Education Building_160,Yes,North,Ruby-throated Hummingbird_Archilochus colubris,Dead
+2020-09-16,PM,South Quad,Krannert Art Museum_220,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Alive
+2020-09-17,AM,North Quad,Siebel Center for Computer Science_563,Yes,North,Ovenbird_Seiurus aurocapilla,Dead
+2020-09-17,AM,North Quad,Beckman Institute_228,Yes,North,Gray-cheeked Thrush_Catharus minimus,Dead
+2020-09-17,AM,North Quad,Beckman Institute_228,Yes,North,Red-breasted Nuthatch_Sitta canadensis,Dead
+2020-09-17,AM,North Quad,Electrical and Computer Engineering_409,Yes,South,Bay-breasted Warbler_Setophaga castanea,Dead
+2020-09-17,AM,Main Quad,Morrill Hall_242,Yes,West,Swainson's Thrush_Catharus ustulatus,Alive
+2020-09-17,AM,North Quad,Beckman Institute_228,Yes,West,Red-eyed Vireo_Vireo olivaceus,Dead
+2020-09-17,AM,North Quad,Beckman Institute_228,Yes,West,Magnolia Warbler_Setophaga magnolia,Alive
+2020-09-17,AM,South Quad,Temple Hoyne Buell Hall_339,Yes,West,Swainson's Thrush_Catharus ustulatus,Dead
+2020-09-17,AM,South Quad,Law Building_156,Yes,North,Swainson's Thrush_Catharus ustulatus,Dead
+2020-09-17,PM,South Quad,Krannert Art Museum_220,Yes,South,Swainson's Thrush_Catharus ustulatus,Dead
+2020-09-17,PM,North Quad,Siebel Center for Computer Science_563,Yes,North,Ovenbird_Seiurus aurocapilla,Dead
+2020-09-17,PM,North Quad,North Campus Parking Deck_1094,Yes,West,Thrush (?),Dead
+2020-09-17,PM,North Quad,Beckman Institute_228,Yes,North,Red-breasted Nuthatch_Sitta canadensis,Dead
+2020-09-17,PM,North Quad,Coordinated Science Laboratory_148,Yes,North,Hermit Thrush_Catharus guttatus (?),Dead
+2020-09-18,AM,North Quad,Electrical and Computer Engineering_409,Yes,South,Ovenbird_Seiurus aurocapilla,Alive
+2020-09-18,AM,North Quad,Beckman Institute_228,Yes,North,Swainson's Thrush_Catharus ustulatus,Dead
+2020-09-18,AM,North Quad,Beckman Institute_228,Yes,North,American Redstart_Setophaga ruticilla,Dead
+2020-09-18,AM,North Quad,Beckman Institute_228,Yes,West,Swainson's Thrush_Catharus ustulatus,Alive
+2020-09-18,AM,South Quad,Integrated Bioprocessing Research Laboratory_1233,Yes,West,Unidentifiable,Dead
+2020-09-18,AM,South Quad,Business Instructional Facility_1206,Yes,South,Swainson's Thrush_Catharus ustulatus,Dead
+2020-09-18,AM,South Quad,Business Instructional Facility_1206,Yes,South,Nashville Warbler_Oreothlypis ruficapilla,Alive
+2020-09-18,AM,South Quad,Law Building_156,Yes,East,Swainson's Thrush_Catharus ustulatus,Dead
+2020-09-18,PM,South Quad,Agricultural Engineering Sciences Building_8,Yes,East,Swainson's Thrush_Catharus ustulatus,Dead
+2020-09-18,PM,South Quad,Temple Hoyne Buell Hall_339,Yes,West,Swainson's Thrush_Catharus ustulatus,Dead
+2020-09-18,PM,South Quad,Education Building_160,Yes,North,Red-breasted Nuthatch_Sitta canadensis,Dead
+2020-09-18,PM,South Quad,Education Building_160,Yes,West,Ovenbird_Seiurus aurocapilla,Dead
+2020-09-18,PM,South Quad,Business Instructional Facility_1206,Yes,South,Red-breasted Nuthatch_Sitta canadensis,Dead
+2020-09-18,PM,South Quad,Law Building_156,Yes,North,Blackpoll Warbler_Setophaga striata,Dead
+2020-09-19,AM,South Quad,Agricultural Engineering Sciences Building_8,Yes,East,Ovenbird_Seiurus aurocapilla,Alive
+2020-09-19,AM,South Quad,Agricultural Engineering Sciences Building_8,Yes,East,Pine Warbler_Setophaga pinus,Dead
+2020-09-19,AM,South Quad,Temple Hoyne Buell Hall_339,Yes,West,Rose-breasted Grosbeak_Pheucticus ludovicianus,Dead
+2020-09-19,AM,South Quad,Education Building_160,Yes,West,Ovenbird_Seiurus aurocapilla,Dead
+2020-09-19,AM,South Quad,Business Instructional Facility_1206,Yes,South,Nashville Warbler_Oreothlypis ruficapilla,Dead
+2020-09-19,AM,South Quad,Business Instructional Facility_1206,Yes,South,Chestnut-sided Warbler_Setophaga pensylvanica,Dead
+2020-09-19,AM,Main Quad,Carl R. Woese Institute for Genomic Biology_1080,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Dead
+2020-09-19,PM,North Quad,National Center for Supercomputing Applications_564,Yes,North,Rose-breasted Grosbeak_Pheucticus ludovicianus,Dead
+2020-09-19,PM,North Quad,National Center for Supercomputing Applications_564,Yes,North,Rose-breasted Grosbeak_Pheucticus ludovicianus,Dead
+2020-09-19,PM,North Quad,Beckman Institute_228,Yes,West,Scarlet Tanager_Piranga olivacea,Dead
+2020-09-19,PM,South Quad,Law Building_156,Yes,North,NA,Dead
+2020-09-19,PM,South Quad,Temple Hoyne Buell Hall_339,Yes,South,NA,Dead
+2020-09-19,PM,South Quad,Agricultural Engineering Sciences Building_8,Yes,West,NA,Dead
+2020-09-19,AM,North Quad,North Campus Parking Deck_1094,Yes,North,Nashville Warbler_Oreothlypis ruficapilla,Dead
+2020-09-19,AM,North Quad,North Campus Parking Deck_1094,Yes,North,Nashville Warbler_Oreothlypis ruficapilla,Alive
+2020-09-19,AM,North Quad,Beckman Institute_228,Yes,West,Swainson's Thrush_Catharus ustulatus,Dead
+2020-09-19,AM,North Quad,Beckman Institute_228,Yes,West,Mourning Warbler_Geothlypis philadelphia,Dead
+2020-09-19,AM,North Quad,Coordinated Science Laboratory_148,Yes,North,Swainson's Thrush_Catharus ustulatus,Dead
+2020-09-19,AM,North Quad,Coordinated Science Laboratory_148,Yes,West,Swainson's Thrush_Catharus ustulatus,Dead
+2020-09-19,AM,North Quad,Coordinated Science Laboratory_148,Yes,South,Swainson's Thrush_Catharus ustulatus,Dead
+2020-09-19,AM,North Quad,Electrical and Computer Engineering_409,Yes,South,Ovenbird_Seiurus aurocapilla,Dead
+2020-09-20,PM,North Quad,Everitt Electrical & Computer Engineering Laboratory_37,Yes,North,Swainson's Thrush_Catharus ustulatus,Dead
+2020-09-20,PM,South Quad,Agricultural Engineering Sciences Building_8,Yes,North,Blackburnian Warbler_Setophaga fusca,Dead
+2020-09-20,PM,South Quad,Temple Hoyne Buell Hall_339,Yes,East,Scarlet Tanager_Piranga olivacea,Dead
+2020-09-20,PM,South Quad,Business Instructional Facility_1206,Yes,South,American Robin_Turdus migratorius,Dead
+2020-09-20,PM,South Quad,Business Instructional Facility_1206,Yes,East,Nashville Warbler_Oreothlypis ruficapilla,Dead
+2020-09-20,AM,South Quad,Temple Hoyne Buell Hall_339,Yes,West,Black-throated Green Warbler_Setophaga virens,Alive
+2020-09-20,AM,South Quad,Business Instructional Facility_1206,Yes,South,Tennessee Warbler_Oreothlypis peregrina,Dead
+2020-09-20,AM,South Quad,Krannert Art Museum_220,Yes,South,Swainson's Thrush_Catharus ustulatus,Dead
+2020-09-20,PM,North Quad,Grainger Engineering Library Information Center_324,Yes,North,Black-and-white Warbler_Mniotilta varia,Dead
+2020-09-20,AM,North Quad,Micro and Nanotechnology Laboratory_237,Yes,South,Swainson's Thrush_Catharus ustulatus,Dead
+2020-09-20,AM,North Quad,Electrical and Computer Engineering_409,Yes,North,NA,Dead
+2020-09-21,AM,South Quad,Law Building_156,Yes,West,Red-eyed Vireo_Vireo olivaceus,Dead
+2020-09-22,PM,North Quad,Coordinated Science Laboratory_148,Yes,West,Tennessee Warbler_Oreothlypis peregrina,Dead
+2020-09-22,PM,South Quad,Business Instructional Facility_1206,Yes,South,Tennessee Warbler_Oreothlypis peregrina,Dead
+2020-09-22,PM,South Quad,Business Instructional Facility_1206,Yes,South,Swainson's Thrush_Catharus ustulatus,Dead
+2020-09-23,AM,North Quad,Micro and Nanotechnology Laboratory_237,Yes,East,Ovenbird_Seiurus aurocapilla,Dead
+2020-09-23,AM,North Quad,Micro and Nanotechnology Laboratory_237,Yes,East,Unidentifiable,Dead
+2020-09-24,PM,South Quad,Temple Hoyne Buell Hall_339,Yes,West,Northern Waterthrush_Parkesia noveboracensis,Dead
+2020-09-24,PM,North Quad,Electrical and Computer Engineering_409,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Dead
+2020-09-24,PM,North Quad,Grainger Engineering Library Information Center_324,Yes,West,Nashville Warbler_Oreothlypis ruficapilla,Dead
+2020-09-24,AM,North Quad,Beckman Institute_228,Yes,East,Magnolia Warbler_Setophaga magnolia,Dead
+2020-09-24,AM,North Quad,Coordinated Science Laboratory_148,Yes,North,Ruby-throated Hummingbird_Archilochus colubris,Dead
+2020-09-24,AM,North Quad,Beckman Institute_228,Yes,North,Swainson's Thrush_Catharus ustulatus,Dead
+2020-09-24,AM,North Quad,Electrical and Computer Engineering_409,Yes,South,Tennessee Warbler_Oreothlypis peregrina,Dead
+2020-09-24,AM,North Quad,Micro and Nanotechnology Laboratory_237,Yes,East,Ovenbird_Seiurus aurocapilla,Dead
+2020-09-24,AM,Other (explain in notes),NA,Yes,North,Bay-breasted Warbler_Setophaga castanea,Alive
+2020-09-25,PM,South Quad,Temple Hoyne Buell Hall_339,Yes,West,Tennessee Warbler_Oreothlypis peregrina,Dead
+2020-09-25,PM,North Quad,Siebel Center for Computer Science_563,Yes,North,Unidentifiable,Dead
+2020-09-25,PM,North Quad,Coordinated Science Laboratory_148,Yes,North,Unidentifiable,Dead
+2020-09-25,PM,North Quad,Everitt Electrical & Computer Engineering Laboratory_37,Yes,North,Swainson's Thrush_Catharus ustulatus,Dead
+2020-09-26,PM,South Quad,Education Building_160,Yes,North,Ruby-throated Hummingbird_Archilochus colubris,Alive
+2020-09-27,PM,South Quad,Business Instructional Facility_1206,Yes,South,Tennessee Warbler_Oreothlypis peregrina,Dead
+2020-09-28,AM,North Quad,Electrical and Computer Engineering_409,Yes,South,Rose-breasted Grosbeak_Pheucticus ludovicianus,Dead
+2020-09-28,AM,North Quad,Beckman Institute_228,Yes,West,NA,Alive
+2020-09-28,PM,South Quad,Business Instructional Facility_1206,Yes,South,Ruby-throated Hummingbird_Archilochus colubris,Dead
+2020-09-29,AM,Other (explain in notes),NA,Yes,North,Swamp Sparrow_Melospiza georgiana,Alive
+2020-09-29,AM,North Quad,Micro and Nanotechnology Laboratory_237,Yes,North,Gray Catbird_Dumetella carolinensis,Alive
+2020-09-29,AM,North Quad,Beckman Institute_228,Yes,East,Swainson's Thrush_Catharus ustulatus,Dead
+2020-09-29,AM,North Quad,Beckman Institute_228,Yes,North,Rose-breasted Grosbeak_Pheucticus ludovicianus,Dead
+2020-09-29,AM,North Quad,Beckman Institute_228,Yes,North,Swainson's Thrush_Catharus ustulatus,Dead
+2020-09-29,AM,Main Quad,Carl R. Woese Institute for Genomic Biology_1080,Yes,West,Tennessee Warbler_Oreothlypis peregrina,Dead
+2020-09-29,AM,South Quad,Education Building_160,Yes,North,White-throated Sparrow_Zonotrichia albicollis,Dead
+2020-09-29,AM,South Quad,Business Instructional Facility_1206,Yes,South,Swainson's Thrush_Catharus ustulatus,Dead
+2020-09-29,AM,South Quad,Business Instructional Facility_1206,Yes,South,Ovenbird_Seiurus aurocapilla,Dead
+2020-09-29,AM,North Quad,Beckman Institute_228,Yes,East,Tennessee Warbler_Oreothlypis peregrina,Dead
+2020-09-29,AM,North Quad,Beckman Institute_228,Yes,East,Gray-cheeked Thrush_Catharus minimus,Dead
+2020-09-29,AM,North Quad,Beckman Institute_228,Yes,West,Ovenbird_Seiurus aurocapilla,Dead
+2020-09-29,AM,North Quad,Beckman Institute_228,Yes,South,Red-eyed Vireo_Vireo olivaceus,Alive
+2020-09-29,PM,North Quad,Beckman Institute_228,Yes,South,Yellow-bellied Sapsucker_Sphyrapicus varius,Dead
+2020-09-29,PM,North Quad,Electrical and Computer Engineering_409,Yes,South,Red-eyed Vireo_Vireo olivaceus,Dead
+2020-09-29,PM,North Quad,Micro and Nanotechnology Laboratory_237,Yes,East,Swainson's Thrush_Catharus ustulatus,Dead
+2020-09-29,PM,South Quad,Business Instructional Facility_1206,Yes,South,NA,Dead
+2020-09-30,AM,North Quad,Beckman Institute_228,Yes,North,Northern Parula_Setophaga americana,Dead
+2020-09-30,AM,North Quad,Electrical and Computer Engineering_409,Yes,North,Rose-breasted Grosbeak_Pheucticus ludovicianus,Dead
+2020-09-30,PM,North Quad,Beckman Institute_228,Yes,West,Tennessee Warbler_Oreothlypis peregrina,Dead
+2020-09-30,PM,North Quad,Engineering Hall_15,Yes,West,Yellow-bellied Sapsucker_Sphyrapicus varius,Dead
+2020-09-30,AM,South Quad,Agricultural Engineering Sciences Building_8,Yes,West,Magnolia Warbler_Setophaga magnolia,Dead
+2020-09-30,AM,South Quad,Temple Hoyne Buell Hall_339,Yes,East,Blackpoll Warbler_Setophaga striata,Dead
+2020-09-30,AM,South Quad,Temple Hoyne Buell Hall_339,Yes,East,Yellow-bellied Sapsucker_Sphyrapicus varius,Dead
+2020-10-02,AM,North Quad,Beckman Institute_228,Yes,North,Magnolia Warbler_Setophaga magnolia,Dead
+2020-10-02,AM,North Quad,Beckman Institute_228,Yes,West,Tennessee Warbler_Oreothlypis peregrina,Dead
+2020-10-02,AM,North Quad,Beckman Institute_228,Yes,East,Yellow-bellied Sapsucker_Sphyrapicus varius,Dead
+2020-10-02,AM,North Quad,Beckman Institute_228,Yes,South,Yellow-bellied Sapsucker_Sphyrapicus varius,Dead
+2020-10-01,PM,North Quad,Beckman Institute_228,Yes,North,Bay-breasted Warbler_Setophaga castanea,Alive
+2020-10-01,PM,North Quad,Coordinated Science Laboratory_148,Yes,North,Ruby-throated Hummingbird_Archilochus colubris,Dead
+2020-10-01,PM,North Quad,Electrical and Computer Engineering_409,Yes,North,American Goldfinch_Spinus tristis,Dead
+2020-10-01,PM,North Quad,Everitt Electrical & Computer Engineering Laboratory_37,Yes,North,Unidentifiable,Dead
+2020-10-02,PM,South Quad,Business Instructional Facility_1206,Yes,West,Tennessee Warbler_Oreothlypis peregrina,Dead
+2020-10-02,PM,South Quad,Law Building_156,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Dead
+2020-10-03,AM,South Quad,Business Instructional Facility_1206,Yes,South,Unidentifiable,Dead
+2020-10-03,AM,North Quad,Beckman Institute_228,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Dead
+2020-10-03,AM,North Quad,Grainger Engineering Library Information Center_324,Yes,South,Tennessee Warbler_Oreothlypis peregrina,Dead
+2020-10-03,PM,South Quad,Temple Hoyne Buell Hall_339,Yes,West,Brown Creeper_Certhia americana,Dead
+2020-10-05,PM,North Quad,Beckman Institute_228,Yes,North,Nashville Warbler_Oreothlypis ruficapilla,Dead
+2020-10-06,PM,South Quad,Business Instructional Facility_1206,Yes,East,Swainson's Thrush_Catharus ustulatus,Dead
+2020-10-05,AM,North Quad,Beckman Institute_228,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Dead
+2020-10-05,AM,North Quad,Beckman Institute_228,Yes,West,Nashville Warbler_Oreothlypis ruficapilla,Dead
+2020-10-05,AM,North Quad,Beckman Institute_228,Yes,East,Red-breasted Nuthatch_Sitta canadensis,Dead
+2020-10-07,AM,North Quad,North Campus Parking Deck_1094,Yes,North,Nashville Warbler_Oreothlypis ruficapilla,Dead
+2020-10-04,PM,North Quad,Beckman Institute_228,Yes,East,Unidentifiable,Dead
+2020-10-05,PM,South Quad,English Building_44,Yes,South,American Robin_Turdus migratorius,Alive
+2020-10-08,PM,South Quad,Agricultural Engineering Sciences Building_8,Yes,West,NA,Dead
+2020-10-08,PM,South Quad,Business Instructional Facility_1206,Yes,South,NA,Dead
+2020-10-09,AM,North Quad,Beckman Institute_228,Yes,North,Northern Flicker_Colaptes auratus,Dead
+2020-10-09,AM,North Quad,Beckman Institute_228,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Dead
+2020-10-09,AM,North Quad,Beckman Institute_228,Yes,West,Hermit Thrush_Catharus guttatus,Dead
+2020-10-09,PM,North Quad,Beckman Institute_228,Yes,East,Ruby-crowned Kinglet_Regulus calendula,Dead
+2020-10-09,PM,North Quad,Coordinated Science Laboratory_148,Yes,North,Yellow-bellied Sapsucker_Sphyrapicus varius,Dead
+2020-10-09,PM,South Quad,Education Building_160,Yes,West,Ruby-crowned Kinglet_Regulus calendula,Dead
+2020-10-10,AM,North Quad,Beckman Institute_228,Yes,South,Unidentifiable,Dead
+2020-10-11,PM,North Quad,Siebel Center for Computer Science_563,Yes,West,Yellow-bellied Sapsucker_Sphyrapicus varius,Dead
+2020-10-11,PM,North Quad,Siebel Center for Computer Science_563,Yes,West,Tennessee Warbler_Oreothlypis peregrina,Dead
+2020-10-11,PM,North Quad,Electrical and Computer Engineering_409,Yes,East,Tennessee Warbler_Oreothlypis peregrina,Dead
+2020-10-12,AM,South Quad,Krannert Art Museum_220,Yes,South,White-throated Sparrow_Zonotrichia albicollis,Dead
+2020-10-12,AM,South Quad,Law Building_156,Yes,North,Lincoln's Sparrow_Melospiza lincolnii,Dead
+2020-10-10,PM,North Quad,Beckman Institute_228,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Dead
+2020-10-15,AM,South Quad,Temple Hoyne Buell Hall_339,Yes,West,White-throated Sparrow_Zonotrichia albicollis,Dead
+2020-10-13,AM,North Quad,Beckman Institute_228,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Dead
+2020-10-13,AM,North Quad,Beckman Institute_228,Yes,North,White-throated Sparrow_Zonotrichia albicollis,Dead
+2020-10-14,AM,South Quad,Temple Hoyne Buell Hall_339,Yes,West,Song Sparrow_Melospiza melodia,Dead
+2020-10-16,AM,South Quad,Law Building_156,Yes,North,White-throated Sparrow_Zonotrichia albicollis,Alive
+2020-10-18,AM,South Quad,Agricultural Engineering Sciences Building_8,Yes,North,American Robin_Turdus migratorius,Dead
+2020-10-18,AM,South Quad,Business Instructional Facility_1206,Yes,South,White-throated Sparrow_Zonotrichia albicollis,Dead
+2020-10-18,AM,South Quad,Business Instructional Facility_1206,Yes,South,Tennessee Warbler_Oreothlypis peregrina,Dead
+2020-10-18,AM,South Quad,Krannert Art Museum_220,Yes,North,Virginia Rail_Rallus limicola,Dead
+2020-10-12,PM,South Quad,English Building_44,Yes,South,Tennessee Warbler_Oreothlypis peregrina,Alive
+2020-10-13,PM,North Quad,Siebel Center for Computer Science_563,Yes,North,Chipping Sparrow_Spizella passerina,Dead
+2020-10-13,PM,North Quad,Beckman Institute_228,Yes,East,Tennessee Warbler_Oreothlypis peregrina,Dead
+2020-10-15,PM,North Quad,Siebel Center for Computer Science_563,Yes,North,Unidentifiable,Dead
+2020-10-17,AM,North Quad,Micro and Nanotechnology Laboratory_237,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Dead
+2020-10-18,PM,North Quad,North Campus Parking Deck_1094,Yes,West,Nashville Warbler_Oreothlypis ruficapilla,Dead
+2020-10-16,AM,North Quad,Siebel Center for Computer Science_563,Yes,East,unknown,Dead
+2020-10-16,AM,North Quad,Siebel Center for Computer Science_563,Yes,North,unknown,Dead
+2021-08-23,AM,North Quad,Campus Instructional Facility (Planned)_1545,Yes,North,American Redstart_Setophaga ruticilla,Dead
+2021-08-23,AM,North Quad,Campus Instructional Facility (Planned)_1545,Yes,North,Unidentifiable,Dead
+2021-08-23,AM,North Quad,Campus Instructional Facility (Planned)_1545,Yes,West,House Sparrow_Passer domesticus,Dead
+2021-08-23,AM,North Quad,Beckman Institute_228,Yes,East,Golden-winged Warbler_Vermivora chrysoptera,Dead
+2021-08-23,AM,North Quad,Electrical and Computer Engineering_409,Yes,East,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-08-23,AM,North Quad,Electrical and Computer Engineering_409,Yes,South,Mourning Warbler_Geothlypis philadelphia,Dead
+2021-08-23,AM,South Quad,Business Instructional Facility_1206,Yes,South,Ruby-throated Hummingbird_Archilochus colubris,Dead
+2021-08-23,AM,South Quad,Law Building_156,Yes,North,Unidentifiable,Dead
+2021-08-25,AM,North Quad,Siebel Center for Computer Science_563,Yes,South,Unidentifiable,Dead
+2021-08-25,AM,Other (explain in notes),National Center for Supercomputing Applications_564,Yes,South,Northern Waterthrush_Parkesia noveboracensis,Dead
+2021-08-27,AM,North Quad,Electrical and Computer Engineering_409,Yes,South,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-08-27,AM,North Quad,Electrical and Computer Engineering_409,Yes,East,Unidentifiable,Dead
+2021-08-27,AM,South Quad,Law Building_156,Yes,East,Mourning Warbler_Geothlypis philadelphia,Dead
+2021-08-30,AM,North Quad,Campus Instructional Facility (Planned)_1545,Yes,East,American Goldfinch_Spinus tristis,Alive
+2021-08-30,AM,North Quad,Beckman Institute_228,Yes,North,Bay-breasted Warbler_Setophaga castanea,Dead
+2021-08-30,AM,North Quad,Beckman Institute_228,Yes,West,Ovenbird_Seiurus aurocapilla,Dead
+2021-08-30,AM,North Quad,Micro and Nanotechnology Laboratory_237,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Alive
+2021-08-30,AM,North Quad,Micro and Nanotechnology Laboratory_237,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Alive
+2021-08-30,AM,South Quad,Temple Hoyne Buell Hall_339,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-08-30,AM,South Quad,Temple Hoyne Buell Hall_339,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-08-30,AM,South Quad,Agricultural Engineering Sciences Building_8,Yes,East,American Redstart_Setophaga ruticilla,Alive
+2021-08-30,AM,Main Quad,Carl R. Woese Institute for Genomic Biology_1080,Yes,West,Chestnut-sided Warbler_Setophaga pensylvanica,Dead
+2021-08-30,AM,Main Quad,Morrill Hall_242,Yes,North,Black-and-white Warbler_Mniotilta varia,Dead
+2021-08-30,AM,Main Quad,Morrill Hall_242,Yes,North,Unidentifiable,Dead
+2021-08-30,PM,North Quad,Beckman Institute_228,Yes,West,Bay-breasted Warbler_Setophaga castanea,Dead
+2021-08-30,PM,Other (explain in notes),Civil Engineering Hydrosystems Lab_152,Yes,East,Bay-breasted Warbler_Setophaga castanea,Dead
+2021-08-30,PM,Other (explain in notes),Civil Engineering Hydrosystems Lab_152,Yes,East,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-08-31,AM,South Quad,Temple Hoyne Buell Hall_339,Yes,West,Ovenbird_Seiurus aurocapilla,Dead
+2021-08-31,AM,South Quad,Temple Hoyne Buell Hall_339,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-09-01,AM,North Quad,Beckman Institute_228,Yes,West,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-09-01,AM,North Quad,Beckman Institute_228,Yes,West,Mourning Warbler_Geothlypis philadelphia,Alive
+2021-09-01,AM,North Quad,Beckman Institute_228,Yes,East,Swainson's Thrush_Catharus ustulatus,Alive
+2021-09-01,AM,North Quad,Beckman Institute_228,Yes,West,Swainson's Thrush_Catharus ustulatus,Dead
+2021-09-01,AM,Main Quad,Chemical & Life Sciences Laboratory_70,Yes,North,Ovenbird_Seiurus aurocapilla,Dead
+2021-09-01,AM,Main Quad,Chemical & Life Sciences Laboratory_70,Yes,East,Red-eyed Vireo_Vireo olivaceus,Dead
+2021-09-02,AM,North Quad,Beckman Institute_228,Yes,West,Bay-breasted Warbler_Setophaga castanea,Dead
+2021-09-02,AM,North Quad,Beckman Institute_228,Yes,North,Bay-breasted Warbler_Setophaga castanea,Dead
+2021-09-02,AM,North Quad,Electrical and Computer Engineering_409,Yes,South,Ovenbird_Seiurus aurocapilla,Dead
+2021-09-02,AM,North Quad,Electrical and Computer Engineering_409,Yes,South,Ovenbird_Seiurus aurocapilla,Dead
+2021-09-02,AM,South Quad,Business Instructional Facility_1206,Yes,South,Ruby-throated Hummingbird_Archilochus colubris,Dead
+2021-09-02,AM,South Quad,Siebel Center for Design_1517,Yes,South,Dickcissel_Spiza americana,Dead
+2021-09-02,AM,Main Quad,Chemical & Life Sciences Laboratory_70,Yes,West,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-09-03,AM,Other (explain in notes),Civil Engineering Hydrosystems Lab_152,Yes,West,Mourning Warbler_Geothlypis philadelphia,Dead
+2021-09-03,AM,North Quad,Beckman Institute_228,Yes,West,Magnolia Warbler_Setophaga magnolia,Dead
+2021-09-03,AM,North Quad,Beckman Institute_228,Yes,West,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-09-03,AM,North Quad,Micro and Nanotechnology Laboratory_237,Yes,East,Yellow-bellied Flycatcher_Empidonax flaviventris,Dead
+2021-09-03,AM,South Quad,Business Instructional Facility_1206,Yes,West,Bay-breasted Warbler_Setophaga castanea,Dead
+2021-09-03,AM,South Quad,Business Instructional Facility_1206,Yes,South,Ruby-throated Hummingbird_Archilochus colubris,Dead
+2021-09-03,AM,South Quad,Business Instructional Facility_1206,Yes,South,Ruby-throated Hummingbird_Archilochus colubris,Dead
+2021-09-03,AM,South Quad,Siebel Center for Design_1517,Yes,South,Ruby-throated Hummingbird_Archilochus colubris,Dead
+2021-09-03,AM,South Quad,Agricultural Engineering Sciences Building_8,Yes,West,Bay-breasted Warbler_Setophaga castanea,Dead
+2021-09-03,AM,South Quad,Agricultural Engineering Sciences Building_8,Yes,West,Magnolia Warbler_Setophaga magnolia,Dead
+2021-09-06,PM,Other (explain in notes),Civil Engineering Hydrosystems Lab_152,Yes,East,Red-eyed Vireo_Vireo olivaceus,Dead
+2021-09-06,PM,Other (explain in notes),Civil Engineering Hydrosystems Lab_152,Yes,West,Bay-breasted Warbler_Setophaga castanea,Dead
+2021-09-06,PM,Other (explain in notes),Civil Engineering Hydrosystems Lab_152,Yes,West,Ovenbird_Seiurus aurocapilla,Dead
+2021-09-06,PM,Other (explain in notes),Civil Engineering Hydrosystems Lab_152,Yes,West,Bay-breasted Warbler_Setophaga castanea,Dead
+2021-09-06,PM,North Quad,Beckman Institute_228,Yes,East,Swainson's Thrush_Catharus ustulatus,Dead
+2021-09-06,PM,North Quad,Beckman Institute_228,Yes,West,Ovenbird_Seiurus aurocapilla,Dead
+2021-09-06,PM,North Quad,Beckman Institute_228,Yes,North,Black-and-white Warbler_Mniotilta varia,Dead
+2021-09-06,PM,North Quad,Electrical and Computer Engineering_409,Yes,South,Palm Warbler_Setophaga palmarum,Dead
+2021-09-06,PM,North Quad,Electrical and Computer Engineering_409,Yes,South,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-09-06,PM,South Quad,Business Instructional Facility_1206,Yes,South,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-09-08,AM,North Quad,Micro and Nanotechnology Laboratory_237,Yes,East,Ovenbird_Seiurus aurocapilla,Dead
+2021-09-08,AM,North Quad,Coordinated Science Laboratory_148,Yes,North,Ovenbird_Seiurus aurocapilla,Dead
+2021-09-08,AM,South Quad,Business Instructional Facility_1206,Yes,South,Tennessee Warbler_Oreothlypis peregrina,Alive
+2021-09-08,AM,South Quad,Business Instructional Facility_1206,Yes,South,Ovenbird_Seiurus aurocapilla,Dead
+2021-09-08,AM,South Quad,Law Building_156,Yes,North,Swainson's Thrush_Catharus ustulatus,Dead
+2021-09-08,AM,South Quad,Temple Hoyne Buell Hall_339,Yes,North,Black-and-white Warbler_Mniotilta varia,Dead
+2021-09-08,AM,South Quad,Temple Hoyne Buell Hall_339,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-09-08,AM,South Quad,Agricultural Engineering Sciences Building_8,Yes,East,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-09-08,AM,South Quad,Agricultural Engineering Sciences Building_8,Yes,East,Swainson's Thrush_Catharus ustulatus,Dead
+2021-09-08,AM,Main Quad,Morrill Hall_242,Yes,North,Ovenbird_Seiurus aurocapilla,Dead
+2021-09-09,AM,North Quad,Beckman Institute_228,Yes,South,Northern Waterthrush_Parkesia noveboracensis,Dead
+2021-09-09,AM,North Quad,Beckman Institute_228,Yes,North,Red-eyed Vireo_Vireo olivaceus,Dead
+2021-09-09,AM,South Quad,Education Building_160,Yes,South,American Redstart_Setophaga ruticilla,Dead
+2021-09-09,AM,South Quad,Business Instructional Facility_1206,Yes,South,Ruby-throated Hummingbird_Archilochus colubris,Dead
+2021-09-09,AM,South Quad,Siebel Center for Design_1517,Yes,South,Connecticut Warbler_Oporornis agilis,Dead
+2021-09-09,AM,South Quad,Krannert Art Museum_220,Yes,South,Swainson's Thrush_Catharus ustulatus,Dead
+2021-09-09,AM,South Quad,Law Building_156,Yes,North,Common Yellowthroat_Geothlypis trichas,Dead
+2021-09-10,AM,North Quad,Campus Instructional Facility (Planned)_1545,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-09-10,AM,North Quad,Campus Instructional Facility (Planned)_1545,Yes,North,Ruby-throated Hummingbird_Archilochus colubris,Dead
+2021-09-10,AM,North Quad,Campus Instructional Facility (Planned)_1545,Yes,North,Red-breasted Nuthatch_Sitta canadensis,Dead
+2021-09-10,AM,North Quad,Campus Instructional Facility (Planned)_1545,Yes,North,Chestnut-sided Warbler_Setophaga pensylvanica,Dead
+2021-09-10,AM,North Quad,Campus Instructional Facility (Planned)_1545,Yes,East,Magnolia Warbler_Setophaga magnolia,Dead
+2021-09-10,AM,North Quad,Campus Instructional Facility (Planned)_1545,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-09-10,AM,North Quad,Beckman Institute_228,Yes,West,Swainson's Thrush_Catharus ustulatus,Alive
+2021-09-10,AM,North Quad,Beckman Institute_228,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-09-10,AM,North Quad,Beckman Institute_228,Yes,North,Ovenbird_Seiurus aurocapilla,Dead
+2021-09-10,AM,North Quad,Electrical and Computer Engineering_409,Yes,South,Red-eyed Vireo_Vireo olivaceus,Dead
+2021-09-10,AM,South Quad,Business Instructional Facility_1206,Yes,South,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-09-10,AM,South Quad,Business Instructional Facility_1206,Yes,South,Ruby-throated Hummingbird_Archilochus colubris,Dead
+2021-09-10,AM,South Quad,Siebel Center for Design_1517,Yes,East,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-09-10,AM,South Quad,Law Building_156,Yes,North,Magnolia Warbler_Setophaga magnolia,Dead
+2021-09-10,AM,South Quad,Temple Hoyne Buell Hall_339,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-09-10,AM,South Quad,Agricultural Engineering Sciences Building_8,Yes,West,Ovenbird_Seiurus aurocapilla,Dead
+2021-09-10,AM,South Quad,Agricultural Engineering Sciences Building_8,Yes,North,American Redstart_Setophaga ruticilla,Dead
+2021-09-10,AM,Main Quad,Morrill Hall_242,Yes,North,Chestnut-sided Warbler_Setophaga pensylvanica,Dead
+2021-09-10,PM,North Quad,Beckman Institute_228,Yes,East,Red-eyed Vireo_Vireo olivaceus,Dead
+2021-09-12,AM,South Quad,Temple Hoyne Buell Hall_339,Yes,West,American Redstart_Setophaga ruticilla,Dead
+2021-09-12,AM,North Quad,North Campus Parking Deck_1094,Yes,North,Swainson's Thrush_Catharus ustulatus,Dead
+2021-09-12,AM,North Quad,Beckman Institute_228,Yes,South,Ruby-throated Hummingbird_Archilochus colubris,Dead
+2021-09-12,AM,North Quad,Beckman Institute_228,Yes,South,Ovenbird_Seiurus aurocapilla,Dead
+2021-09-11,AM,North Quad,Beckman Institute_228,Yes,North,American Redstart_Setophaga ruticilla,Dead
+2021-09-11,AM,North Quad,Coordinated Science Laboratory_148,Yes,North,Red-eyed Vireo_Vireo olivaceus,Dead
+2021-09-12,PM,South Quad,Law Building_156,Yes,North,Ruby-throated Hummingbird_Archilochus colubris,Dead
+2021-09-13,AM,North Quad,Campus Instructional Facility (Planned)_1545,Yes,North,American Redstart_Setophaga ruticilla,Alive
+2021-09-13,AM,North Quad,Beckman Institute_228,Yes,East,Swainson's Thrush_Catharus ustulatus,Dead
+2021-09-13,AM,North Quad,Campus Instructional Facility (Planned)_1545,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Alive
+2021-09-13,AM,Main Quad,Morrill Hall_242,Yes,North,Ovenbird_Seiurus aurocapilla,Dead
+2021-09-13,AM,South Quad,Agricultural Engineering Sciences Building_8,Yes,East,Ruby-throated Hummingbird_Archilochus colubris,Dead
+2021-09-14,AM,South Quad,Integrated Bioprocessing Research Laboratory_1233,Yes,West,Common Yellowthroat_Geothlypis trichas,Dead
+2021-09-14,AM,North Quad,Beckman Institute_228,Yes,North,Ovenbird_Seiurus aurocapilla,Dead
+2021-09-14,AM,North Quad,Campus Instructional Facility (Planned)_1545,Yes,North,Ruby-throated Hummingbird_Archilochus colubris,Dead
+2021-09-14,PM,South Quad,Law Building_156,Yes,South,Red-eyed Vireo_Vireo olivaceus,Dead
+2021-09-14,PM,North Quad,Electrical and Computer Engineering_409,Yes,South,Mourning Dove_Zenaida macroura,Dead
+2021-09-15,AM,Other (explain in notes),Civil Engineering Hydrosystems Lab_152,Yes,East,Black-and-white Warbler_Mniotilta varia,Alive
+2021-09-15,AM,North Quad,North Campus Parking Deck_1094,Yes,East,Gray Catbird_Dumetella carolinensis,Dead
+2021-09-15,AM,North Quad,Beckman Institute_228,Yes,West,Ovenbird_Seiurus aurocapilla,Dead
+2021-09-15,AM,North Quad,Beckman Institute_228,Yes,South,Black-and-white Warbler_Mniotilta varia,Dead
+2021-09-15,AM,North Quad,Electrical and Computer Engineering_409,Yes,South,Magnolia Warbler_Setophaga magnolia,Dead
+2021-09-15,AM,North Quad,Campus Instructional Facility (Planned)_1545,Yes,North,Red-eyed Vireo_Vireo olivaceus,Dead
+2021-09-15,AM,South Quad,Business Instructional Facility_1206,Yes,South,Ovenbird_Seiurus aurocapilla,Dead
+2021-09-15,AM,South Quad,Siebel Center for Design_1517,Yes,South,Gray Catbird_Dumetella carolinensis,Dead
+2021-09-15,AM,South Quad,Temple Hoyne Buell Hall_339,Yes,West,American Redstart_Setophaga ruticilla,Dead
+2021-09-15,AM,Main Quad,Chemical & Life Sciences Laboratory_70,Yes,West,Bay-breasted Warbler_Setophaga castanea,Dead
+2021-09-15,AM,Main Quad,Chemical & Life Sciences Laboratory_70,Yes,West,Golden-winged Warbler_Vermivora chrysoptera,Dead
+2021-09-15,AM,Main Quad,Morrill Hall_242,Yes,North,Cape May Warbler_Setophaga tigrina,Dead
+2021-09-15,AM,North Quad,Campus Instructional Facility (Planned)_1545,Yes,North,Chestnut-sided Warbler_Setophaga pensylvanica,Dead
+2021-09-15,AM,North Quad,Beckman Institute_228,Yes,West,Common Yellowthroat_Geothlypis trichas,Dead
+2021-09-15,PM,Other (explain in notes),Henry Dale and Betty Smith Football Center (Planned)_1540,Yes,East,Ovenbird_Seiurus aurocapilla,Dead
+2021-09-15,PM,Other (explain in notes),Henry Dale and Betty Smith Football Center (Planned)_1540,Yes,East,Magnolia Warbler_Setophaga magnolia,Dead
+2021-09-15,PM,Other (explain in notes),Activities & Recreation Center_118,Yes,North,Ovenbird_Seiurus aurocapilla,Dead
+2021-09-15,PM,Main Quad,Illini Union Bookstore_106,Yes,East,Common Yellowthroat_Geothlypis trichas,Dead
+2021-09-15,PM,North Quad,Beckman Institute_228,Yes,West,Red-eyed Vireo_Vireo olivaceus,Dead
+2021-09-16,AM,North Quad,Micro and Nanotechnology Laboratory_237,Yes,North,Black-and-white Warbler_Mniotilta varia,Dead
+2021-09-16,PM,South Quad,Krannert Art Museum_220,Yes,North,Ruby-throated Hummingbird_Archilochus colubris,Dead
+2021-09-16,PM,North Quad,Beckman Institute_228,Yes,South,Ovenbird_Seiurus aurocapilla,Dead
+2021-09-17,AM,Other (explain in notes),Civil Engineering Hydrosystems Lab_152,Yes,South,House Sparrow_Passer domesticus,Dead
+2021-09-17,AM,North Quad,Beckman Institute_228,Yes,West,Nashville Warbler_Oreothlypis ruficapilla,Dead
+2021-09-17,AM,South Quad,Temple Hoyne Buell Hall_339,Yes,West,Chestnut-sided Warbler_Setophaga pensylvanica,Dead
+2021-09-17,AM,Main Quad,Carl R. Woese Institute for Genomic Biology_1080,Yes,North,Red-breasted Nuthatch_Sitta canadensis,Dead
+2021-09-17,AM,Main Quad,Chemical & Life Sciences Laboratory_70,Yes,East,Magnolia Warbler_Setophaga magnolia,Dead
+2021-09-17,AM,Main Quad,Morrill Hall_242,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-09-17,PM,North Quad,Beckman Institute_228,Yes,South,Ovenbird_Seiurus aurocapilla,Dead
+2021-09-18,AM,Other (explain in notes),Civil Engineering Hydrosystems Lab_152,Yes,West,Black-and-white Warbler_Mniotilta varia,Dead
+2021-09-18,AM,North Quad,Beckman Institute_228,Yes,West,Northern Waterthrush_Parkesia noveboracensis,Alive
+2021-09-18,AM,North Quad,Beckman Institute_228,Yes,North,Bay-breasted Warbler_Setophaga castanea,Dead
+2021-09-18,AM,North Quad,Beckman Institute_228,Yes,East,Ovenbird_Seiurus aurocapilla,Alive
+2021-09-18,AM,Other (explain in notes),Civil Engineering Hydrosystems Lab_152,Yes,West,Palm Warbler_Setophaga palmarum,Dead
+2021-09-18,AM,Main Quad,Morrill Hall_242,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-09-18,AM,Main Quad,Chemical & Life Sciences Laboratory_70,Yes,West,Nashville Warbler_Oreothlypis ruficapilla,Dead
+2021-09-18,AM,South Quad,Business Instructional Facility_1206,Yes,South,Ovenbird_Seiurus aurocapilla,Alive
+2021-09-18,AM,South Quad,Education Building_160,Yes,West,Gray-cheeked Thrush_Catharus minimus,Alive
+2021-09-18,AM,South Quad,Agricultural Engineering Sciences Building_8,Yes,East,Swainson's Thrush_Catharus ustulatus,Dead
+2021-09-18,AM,South Quad,Temple Hoyne Buell Hall_339,Yes,North,Rose-breasted Grosbeak_Pheucticus ludovicianus,Alive
+2021-09-20,AM,North Quad,North Campus Parking Deck_1094,Yes,West,Nashville Warbler_Oreothlypis ruficapilla,Dead
+2021-09-20,AM,North Quad,Beckman Institute_228,Yes,West,Northern Waterthrush_Parkesia noveboracensis,Dead
+2021-09-20,AM,Main Quad,Illini Union Bookstore_106,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-09-20,AM,South Quad,Law Building_156,Yes,North,Ruby-throated Hummingbird_Archilochus colubris,Dead
+2021-09-22,AM,Other (explain in notes),Ikenberry Commons- Residence Hall (Number TBD)_1250,Yes,East,Swainson's Thrush_Catharus ustulatus,Alive
+2021-09-22,AM,North Quad,North Campus Parking Deck_1094,Yes,South,Gray-cheeked Thrush_Catharus minimus,Dead
+2021-09-22,AM,North Quad,Beckman Institute_228,Yes,West,Ovenbird_Seiurus aurocapilla,Dead
+2021-09-22,AM,North Quad,Beckman Institute_228,Yes,West,Magnolia Warbler_Setophaga magnolia,Dead
+2021-09-22,AM,North Quad,Beckman Institute_228,Yes,East,Magnolia Warbler_Setophaga magnolia,Alive
+2021-09-22,AM,North Quad,Beckman Institute_228,Yes,East,Tennessee Warbler_Oreothlypis peregrina,Alive
+2021-09-22,AM,North Quad,Coordinated Science Laboratory_148,Yes,West,Ovenbird_Seiurus aurocapilla,Alive
+2021-09-22,AM,North Quad,Electrical and Computer Engineering_409,Yes,South,Tennessee Warbler_Oreothlypis peregrina,Alive
+2021-09-22,AM,South Quad,Business Instructional Facility_1206,Yes,South,Common Yellowthroat_Geothlypis trichas,Alive
+2021-09-22,AM,South Quad,Business Instructional Facility_1206,Yes,South,Swainson's Thrush_Catharus ustulatus,Dead
+2021-09-22,AM,South Quad,Business Instructional Facility_1206,Yes,South,Common Yellowthroat_Geothlypis trichas,Dead
+2021-09-22,AM,South Quad,Business Instructional Facility_1206,Yes,South,Ovenbird_Seiurus aurocapilla,Dead
+2021-09-22,AM,South Quad,Business Instructional Facility_1206,Yes,South,Black-throated Green Warbler_Setophaga virens,Dead
+2021-09-22,AM,South Quad,Business Instructional Facility_1206,Yes,South,American Redstart_Setophaga ruticilla,Dead
+2021-09-22,AM,South Quad,Business Instructional Facility_1206,Yes,South,Magnolia Warbler_Setophaga magnolia,Alive
+2021-09-22,AM,South Quad,Siebel Center for Design_1517,Yes,North,House Wren_Troglodytes aedon,Alive
+2021-09-22,AM,South Quad,Siebel Center for Design_1517,Yes,West,Palm Warbler_Setophaga palmarum,Dead
+2021-09-22,AM,South Quad,Agricultural Engineering Sciences Building_8,Yes,North,Bay-breasted Warbler_Setophaga castanea,Dead
+2021-09-22,AM,South Quad,Agricultural Engineering Sciences Building_8,Yes,West,Tennessee Warbler_Oreothlypis peregrina,Alive
+2021-09-22,AM,Other (explain in notes),Civil Engineering Hydrosystems Lab_152,Yes,West,Cape May Warbler_Setophaga tigrina,Dead
+2021-09-22,AM,North Quad,Beckman Institute_228,Yes,East,Black-throated Green Warbler_Setophaga virens,Alive
+2021-09-23,AM,Other (explain in notes),Green Street,Yes,North,Wood Thrush_Hylocichla mustelina,Dead
+2021-09-22,AM,North Quad,Grainger Engineering Library Information Center_324,Yes,South,Ovenbird_Seiurus aurocapilla,Dead
+2021-09-22,AM,Other (explain in notes),Newmark Civil Engineering Building_24,Yes,East,American Redstart_Setophaga ruticilla,Dead
+2021-09-22,AM,North Quad,Beckman Institute_228,Yes,South,Gray-cheeked Thrush_Catharus minimus,Dead
+2021-09-22,AM,North Quad,Beckman Institute_228,Yes,East,Red-eyed Vireo_Vireo olivaceus,Alive
+2021-09-22,AM,North Quad,Beckman Institute_228,Yes,East,Magnolia Warbler_Setophaga magnolia,Alive
+2021-09-22,PM,North Quad,Beckman Institute_228,Yes,East,Tennessee Warbler_Oreothlypis peregrina,Alive
+2021-09-22,PM,North Quad,Beckman Institute_228,Yes,South,Swainson's Thrush_Catharus ustulatus,Alive
+2021-09-22,PM,Other (explain in notes),Library_41,Yes,East,Bay-breasted Warbler_Setophaga castanea,Alive
+2021-09-23,AM,North Quad,Beckman Institute_228,Yes,South,Common Yellowthroat_Geothlypis trichas,Alive
+2021-09-23,AM,North Quad,Beckman Institute_228,Yes,South,Nashville Warbler_Oreothlypis ruficapilla,Dead
+2021-09-23,AM,North Quad,North Campus Parking Deck_1094,Yes,West,Unidentifiable,Dead
+2021-09-23,AM,Other (explain in notes),National Center for Supercomputing Applications_564,Yes,South,Gray-cheeked Thrush_Catharus minimus,Dead
+2021-09-23,AM,Other (explain in notes),Coordinated Science Laboratory_148,Yes,South,Black-and-white Warbler_Mniotilta varia,Dead
+2021-09-23,AM,North Quad,Micro and Nanotechnology Laboratory_237,Yes,East,Swainson's Thrush_Catharus ustulatus,Dead
+2021-09-23,AM,South Quad,Temple Hoyne Buell Hall_339,Yes,North,Unidentifiable,Dead
+2021-09-23,AM,South Quad,Temple Hoyne Buell Hall_339,Yes,West,Tennessee Warbler_Oreothlypis peregrina,Alive
+2021-09-23,AM,South Quad,Business Instructional Facility_1206,Yes,South,Ovenbird_Seiurus aurocapilla,Alive
+2021-09-23,AM,South Quad,Siebel Center for Design_1517,Yes,North,Magnolia Warbler_Setophaga magnolia,Dead
+2021-09-23,AM,South Quad,Siebel Center for Design_1517,Yes,South,Palm Warbler_Setophaga palmarum,Dead
+2021-09-23,AM,South Quad,Siebel Center for Design_1517,Yes,South,Tennessee Warbler_Oreothlypis peregrina,Alive
+2021-09-23,AM,South Quad,Krannert Art Museum_220,Yes,South,Nashville Warbler_Oreothlypis ruficapilla,Dead
+2021-09-23,AM,South Quad,Law Building_156,Yes,North,Red-eyed Vireo_Vireo olivaceus,Dead
+2021-09-23,PM,South Quad,Business Instructional Facility_1206,Yes,West,Black-and-white Warbler_Mniotilta varia,Alive
+2021-09-23,PM,Other (explain in notes),Noyes Laboratory of Chemistry_12,Yes,North,Black-throated Blue Warbler_Setophaga caerulescens,Dead
+2021-09-23,PM,South Quad,"ACES Library, Information & Alumni Center_377",Yes,West,Ruby-crowned Kinglet_Regulus calendula,Dead
+2021-09-23,PM,North Quad,Siebel Center for Computer Science_563,Yes,East,Ovenbird_Seiurus aurocapilla,Dead
+2021-09-23,PM,North Quad,Beckman Institute_228,Yes,North,Red-eyed Vireo_Vireo olivaceus,Dead
+2021-09-23,PM,North Quad,Beckman Institute_228,Yes,North,Ovenbird_Seiurus aurocapilla,Dead
+2021-09-23,PM,North Quad,Beckman Institute_228,Yes,South,Wilson's Warbler_Cardellina pusilla,Dead
+2021-09-23,PM,North Quad,Electrical and Computer Engineering_409,Yes,South,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-09-23,PM,North Quad,Campus Instructional Facility (Planned)_1545,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-09-23,PM,North Quad,Campus Instructional Facility (Planned)_1545,Yes,North,American Redstart_Setophaga ruticilla,Dead
+2021-09-23,PM,Main Quad,Chemical & Life Sciences Laboratory_70,Yes,West,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-09-23,PM,South Quad,Krannert Art Museum_220,Yes,West,Black-and-white Warbler_Mniotilta varia,Dead
+2021-09-24,AM,North Quad,North Campus Parking Deck_1094,Yes,West,Black-throated Green Warbler_Setophaga virens,Dead
+2021-09-24,AM,North Quad,Campus Instructional Facility (Planned)_1545,Yes,North,Northern Waterthrush_Parkesia noveboracensis,Dead
+2021-09-24,AM,South Quad,Siebel Center for Design_1517,Yes,South,Swamp Sparrow_Melospiza georgiana,Dead
+2021-09-24,AM,South Quad,Law Building_156,Yes,North,Magnolia Warbler_Setophaga magnolia,Dead
+2021-09-24,AM,North Quad,Campus Instructional Facility (Planned)_1545,Yes,East,Bay-breasted Warbler_Setophaga castanea,Alive
+2021-09-25,PM,North Quad,Beckman Institute_228,Yes,East,Nashville Warbler_Oreothlypis ruficapilla,Dead
+2021-09-25,AM,South Quad,Temple Hoyne Buell Hall_339,Yes,East,Unidentifiable,Dead
+2021-09-25,AM,South Quad,Business Instructional Facility_1206,Yes,South,Ovenbird_Seiurus aurocapilla,Dead
+2021-09-25,AM,South Quad,Krannert Art Museum_220,Yes,East,Bay-breasted Warbler_Setophaga castanea,Dead
+2021-09-25,AM,South Quad,Law Building_156,Yes,North,Unidentifiable,Dead
+2021-09-26,AM,South Quad,Agricultural Engineering Sciences Building_8,Yes,West,Bay-breasted Warbler_Setophaga castanea,Dead
+2021-09-26,PM,North Quad,North Campus Parking Deck_1094,Yes,East,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-09-26,PM,North Quad,Beckman Institute_228,Yes,North,Bay-breasted Warbler_Setophaga castanea,Dead
+2021-09-26,PM,North Quad,Beckman Institute_228,Yes,West,Swainson's Thrush_Catharus ustulatus,Dead
+2021-09-26,PM,North Quad,Beckman Institute_228,Yes,South,Rose-breasted Grosbeak_Pheucticus ludovicianus,Dead
+2021-09-26,PM,North Quad,Beckman Institute_228,Yes,South,Rose-breasted Grosbeak_Pheucticus ludovicianus,Dead
+2021-09-26,PM,North Quad,Beckman Institute_228,Yes,West,Olive-sided Flycatcher_Contopus cooperi,Dead
+2021-09-26,PM,North Quad,Beckman Institute_228,Yes,South,Yellow-bellied Sapsucker_Sphyrapicus varius,Dead
+2021-09-27,AM,North Quad,Beckman Institute_228,Yes,North,Nashville Warbler_Oreothlypis ruficapilla,Dead
+2021-09-27,AM,North Quad,Campus Instructional Facility (Planned)_1545,Yes,North,Nashville Warbler_Oreothlypis ruficapilla,Dead
+2021-09-27,AM,North Quad,Campus Instructional Facility (Planned)_1545,Yes,West,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-09-28,AM,South Quad,Siebel Center for Design_1517,Yes,East,Unidentifiable,Alive
+2021-09-28,AM,South Quad,Siebel Center for Design_1517,Yes,East,Unidentifiable,Alive
+2021-09-28,AM,South Quad,Krannert Art Museum_220,Yes,East,Brown Creeper_Certhia americana,Alive
+2021-09-28,AM,South Quad,Law Building_156,Yes,North,Nashville Warbler_Oreothlypis ruficapilla,Alive
+2021-09-28,AM,North Quad,Beckman Institute_228,Yes,South,Magnolia Warbler_Setophaga magnolia,Dead
+2021-09-28,AM,North Quad,Beckman Institute_228,Yes,South,American Redstart_Setophaga ruticilla,Dead
+2021-09-28,AM,North Quad,Campus Instructional Facility (Planned)_1545,Yes,East,Black-throated Green Warbler_Setophaga virens,Dead
+2021-09-28,PM,North Quad,Electrical and Computer Engineering_409,Yes,East,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-09-28,PM,North Quad,Beckman Institute_228,Yes,South,Nashville Warbler_Oreothlypis ruficapilla,Dead
+2021-09-28,PM,North Quad,Beckman Institute_228,Yes,South,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-09-28,PM,South Quad,"ACES Library, Information & Alumni Center_377",Yes,East,Chipping Sparrow_Spizella passerina,Alive
+2021-09-28,PM,North Quad,Beckman Institute_228,Yes,East,Gray Catbird_Dumetella carolinensis,Dead
+2021-09-28,PM,North Quad,North Campus Parking Deck_1094,Yes,West,Northern Parula_Setophaga americana,Dead
+2021-09-28,PM,Other (explain in notes),Civil Engineering Hydrosystems Lab_152,Yes,West,Nashville Warbler_Oreothlypis ruficapilla,Dead
+2021-09-29,AM,North Quad,Campus Instructional Facility (Planned)_1545,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-09-29,AM,North Quad,Beckman Institute_228,Yes,East,Gray-cheeked Thrush_Catharus minimus,Dead
+2021-09-29,AM,North Quad,Beckman Institute_228,Yes,East,Yellow-bellied Sapsucker_Sphyrapicus varius,Dead
+2021-09-29,AM,North Quad,Beckman Institute_228,Yes,West,Ruby-crowned Kinglet_Regulus calendula,Alive
+2021-09-29,AM,North Quad,Beckman Institute_228,Yes,West,Bay-breasted Warbler_Setophaga castanea,Alive
+2021-09-29,AM,North Quad,Micro and Nanotechnology Laboratory_237,Yes,East,Common Yellowthroat_Geothlypis trichas,Dead
+2021-09-29,AM,South Quad,Business Instructional Facility_1206,Yes,South,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-09-29,AM,South Quad,Siebel Center for Design_1517,Yes,South,Common Yellowthroat_Geothlypis trichas,Dead
+2021-09-29,AM,South Quad,Law Building_156,Yes,North,Northern Cardinal_Cardinalis cardinalis,Dead
+2021-09-29,AM,South Quad,Education Building_160,Yes,West,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-09-29,AM,South Quad,Temple Hoyne Buell Hall_339,Yes,West,Nashville Warbler_Oreothlypis ruficapilla,Dead
+2021-09-29,AM,South Quad,Agricultural Engineering Sciences Building_8,Yes,West,Lincoln's Sparrow_Melospiza lincolnii,Dead
+2021-09-29,AM,Main Quad,Chemical & Life Sciences Laboratory_70,Yes,West,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-09-29,AM,Main Quad,Morrill Hall_242,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-09-29,PM,North Quad,Campus Instructional Facility (Planned)_1545,Yes,West,Red-breasted Nuthatch_Sitta canadensis,Dead
+2021-09-29,PM,South Quad,Krannert Art Museum_220,Yes,South,Nashville Warbler_Oreothlypis ruficapilla,Dead
+2021-09-30,AM,Other (explain in notes),Newmark Civil Engineering Building_24,Yes,West,Nashville Warbler_Oreothlypis ruficapilla,Dead
+2021-09-30,AM,North Quad,Beckman Institute_228,Yes,South,Magnolia Warbler_Setophaga magnolia,Dead
+2021-09-30,AM,South Quad,Temple Hoyne Buell Hall_339,Yes,East,Bay-breasted Warbler_Setophaga castanea,Alive
+2021-09-30,PM,North Quad,North Campus Parking Deck_1094,Yes,North,Nashville Warbler_Oreothlypis ruficapilla,Dead
+2021-09-30,PM,North Quad,Beckman Institute_228,Yes,North,Bay-breasted Warbler_Setophaga castanea,Dead
+2021-09-30,PM,North Quad,Beckman Institute_228,Yes,North,Blackburnian Warbler_Setophaga fusca,Dead
+2021-09-30,PM,North Quad,Beckman Institute_228,Yes,South,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-09-30,PM,North Quad,Electrical and Computer Engineering_409,Yes,North,Bay-breasted Warbler_Setophaga castanea,Dead
+2021-09-30,PM,North Quad,Electrical and Computer Engineering_409,Yes,South,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-10-01,AM,North Quad,Micro and Nanotechnology Laboratory_237,Yes,East,Ovenbird_Seiurus aurocapilla,Alive
+2021-10-01,AM,North Quad,Micro and Nanotechnology Laboratory_237,Yes,North,Unidentifiable,Dead
+2021-10-01,AM,North Quad,Beckman Institute_228,Yes,West,Black-throated Blue Warbler_Setophaga caerulescens,Dead
+2021-10-01,AM,North Quad,Beckman Institute_228,Yes,North,Bay-breasted Warbler_Setophaga castanea,Dead
+2021-10-01,AM,Other (explain in notes),Civil Engineering Hydrosystems Lab_152,Yes,West,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-10-01,AM,Other (explain in notes),Civil Engineering Hydrosystems Lab_152,Yes,West,Dark-eyed Junco_Junco hyemalis,Dead
+2021-10-01,AM,North Quad,Campus Instructional Facility (Planned)_1545,Yes,North,Black-throated Green Warbler_Setophaga virens,Dead
+2021-10-01,AM,North Quad,Campus Instructional Facility (Planned)_1545,Yes,North,Bay-breasted Warbler_Setophaga castanea,Alive
+2021-10-01,AM,Main Quad,Chemical & Life Sciences Laboratory_70,Yes,West,Nashville Warbler_Oreothlypis ruficapilla,Dead
+2021-10-01,AM,North Quad,Beckman Institute_228,Yes,West,Common Yellowthroat_Geothlypis trichas,Dead
+2021-10-01,AM,Main Quad,Chemistry Annex_10,Yes,East,Bay-breasted Warbler_Setophaga castanea,Dead
+2021-10-01,PM,North Quad,Campus Instructional Facility (Planned)_1545,Yes,North,Bay-breasted Warbler_Setophaga castanea,Dead
+2021-10-01,PM,North Quad,Micro and Nanotechnology Laboratory_237,Yes,East,Bay-breasted Warbler_Setophaga castanea,Dead
+2021-10-01,PM,North Quad,Beckman Institute_228,Yes,West,Ovenbird_Seiurus aurocapilla,Dead
+2021-10-01,PM,North Quad,Beckman Institute_228,Yes,North,Bay-breasted Warbler_Setophaga castanea,Dead
+2021-10-01,PM,North Quad,Beckman Institute_228,Yes,North,Bay-breasted Warbler_Setophaga castanea,Dead
+2021-10-01,PM,Other (explain in notes),Civil Engineering Hydrosystems Lab_152,Yes,West,Bay-breasted Warbler_Setophaga castanea,Dead
+2021-10-01,PM,North Quad,Beckman Institute_228,Yes,West,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-09-22,PM,South Quad,Temple Hoyne Buell Hall_339,Yes,East,Ovenbird_Seiurus aurocapilla,Dead
+2021-09-22,PM,South Quad,Education Building_160,Yes,West,Swainson's Thrush_Catharus ustulatus,Dead
+2021-09-22,PM,South Quad,Business Instructional Facility_1206,Yes,South,American Redstart_Setophaga ruticilla,Alive
+2021-09-22,PM,South Quad,Business Instructional Facility_1206,Yes,West,Black-throated Green Warbler_Setophaga virens,Alive
+2021-09-22,PM,South Quad,Business Instructional Facility_1206,Yes,West,Black-and-white Warbler_Mniotilta varia,Dead
+2021-09-22,PM,South Quad,Krannert Art Museum_220,Yes,North,Gray-cheeked Thrush_Catharus minimus,Dead
+2021-09-22,PM,South Quad,Krannert Art Museum_220,Yes,North,Ovenbird_Seiurus aurocapilla,Dead
+2021-09-24,PM,South Quad,Temple Hoyne Buell Hall_339,Yes,East,Unidentifiable,Dead
+2021-09-24,PM,South Quad,Temple Hoyne Buell Hall_339,Yes,East,American Redstart_Setophaga ruticilla,Alive
+2021-09-24,PM,South Quad,Education Building_160,Yes,West,Ovenbird_Seiurus aurocapilla,Dead
+2021-09-24,PM,South Quad,Business Instructional Facility_1206,Yes,East,Bay-breasted Warbler_Setophaga castanea,Dead
+2021-09-25,PM,South Quad,Agricultural Engineering Sciences Building_8,Yes,West,Bay-breasted Warbler_Setophaga castanea,Dead
+2021-10-01,PM,South Quad,"ACES Library, Information & Alumni Center_377",Yes,West,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-10-01,PM,South Quad,Temple Hoyne Buell Hall_339,Yes,West,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-10-02,AM,North Quad,Beckman Institute_228,Yes,West,Ovenbird_Seiurus aurocapilla,Dead
+2021-10-03,PM,South Quad,Krannert Art Museum_220,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-10-03,AM,North Quad,Electrical and Computer Engineering_409,Yes,South,Tennessee Warbler_Oreothlypis peregrina,Alive
+2021-10-03,AM,North Quad,Beckman Institute_228,Yes,West,Bay-breasted Warbler_Setophaga castanea,Dead
+2021-10-03,AM,North Quad,Campus Instructional Facility (Planned)_1545,Yes,North,Black-throated Green Warbler_Setophaga virens,Dead
+2021-10-04,AM,North Quad,Siebel Center for Computer Science_563,Yes,East,Lincoln's Sparrow_Melospiza lincolnii,Dead
+2021-10-04,AM,North Quad,Micro and Nanotechnology Laboratory_237,Yes,East,Palm Warbler_Setophaga palmarum,Dead
+2021-10-04,AM,South Quad,Agricultural Engineering Sciences Building_8,Yes,East,Swamp Sparrow_Melospiza georgiana,Dead
+2021-10-05,AM,North Quad,Electrical and Computer Engineering_409,Yes,South,Magnolia Warbler_Setophaga magnolia,Dead
+2021-10-05,AM,North Quad,Coordinated Science Laboratory_148,Yes,West,Gray Catbird_Dumetella carolinensis,Alive
+2021-10-05,AM,North Quad,Beckman Institute_228,Yes,South,Unidentifiable,Dead
+2021-10-05,AM,North Quad,Beckman Institute_228,Yes,North,Blackburnian Warbler_Setophaga fusca,Dead
+2021-10-05,AM,South Quad,Business Instructional Facility_1206,Yes,South,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-10-05,AM,South Quad,Law Building_156,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-10-05,PM,North Quad,Electrical and Computer Engineering_409,Yes,South,Common Yellowthroat_Geothlypis trichas,Dead
+2021-10-06,AM,North Quad,Micro and Nanotechnology Laboratory_237,Yes,East,Northern Parula_Setophaga americana,Dead
+2021-10-06,AM,North Quad,Beckman Institute_228,Yes,West,Bay-breasted Warbler_Setophaga castanea,Dead
+2021-10-06,AM,North Quad,Beckman Institute_228,Yes,East,Nashville Warbler_Oreothlypis ruficapilla,Alive
+2021-10-06,AM,North Quad,North Campus Parking Deck_1094,Yes,North,Common Yellowthroat_Geothlypis trichas,Alive
+2021-10-06,AM,South Quad,Business Instructional Facility_1206,Yes,South,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-10-06,AM,South Quad,Siebel Center for Design_1517,Yes,East,Lincoln's Sparrow_Melospiza lincolnii,Dead
+2021-10-06,AM,Main Quad,Chemical & Life Sciences Laboratory_70,Yes,West,Nashville Warbler_Oreothlypis ruficapilla,Dead
+2021-10-06,AM,Main Quad,Chemical & Life Sciences Laboratory_70,Yes,West,Nashville Warbler_Oreothlypis ruficapilla,Dead
+2021-10-08,AM,North Quad,Campus Instructional Facility (Planned)_1545,Yes,West,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-10-08,AM,Other (explain in notes),Civil Engineering Hydrosystems Lab_152,Yes,South,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-10-08,AM,Main Quad,Morrill Hall_242,Yes,North,Swamp Sparrow_Melospiza georgiana,Dead
+2021-10-06,PM,South Quad,Business Instructional Facility_1206,Yes,South,White-crowned Sparrow_Zonotrichia leucophrys,Dead
+2021-10-06,PM,South Quad,Krannert Art Museum_220,Yes,South,Swamp Sparrow_Melospiza georgiana,Dead
+2021-10-09,AM,North Quad,Beckman Institute_228,Yes,West,Black-throated Green Warbler_Setophaga virens,Dead
+2021-10-09,AM,North Quad,Beckman Institute_228,Yes,West,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-10-09,AM,North Quad,Micro and Nanotechnology Laboratory_237,Yes,East,Brown Creeper_Certhia americana,Dead
+2021-10-09,PM,North Quad,Beckman Institute_228,Yes,West,Bay-breasted Warbler_Setophaga castanea,Dead
+2021-10-10,AM,North Quad,Electrical and Computer Engineering_409,Yes,South,Tennessee Warbler_Oreothlypis peregrina,Alive
+2021-10-12,PM,North Quad,Campus Instructional Facility (Planned)_1545,Yes,East,Bay-breasted Warbler_Setophaga castanea,Dead
+2021-10-12,PM,North Quad,Campus Instructional Facility (Planned)_1545,Yes,North,Swamp Sparrow_Melospiza georgiana,Dead
+2021-10-13,AM,North Quad,Beckman Institute_228,Yes,South,Golden-crowned Kinglet_Regulus satrapa,Alive
+2021-10-13,AM,North Quad,Everitt Electrical & Computer Engineering Laboratory_37,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-10-13,AM,South Quad,Agricultural Engineering Sciences Building_8,Yes,North,Lincoln's Sparrow_Melospiza lincolnii,Dead
+2021-10-13,AM,Main Quad,Carl R. Woese Institute for Genomic Biology_1080,Yes,West,Nashville Warbler_Oreothlypis ruficapilla,Dead
+2021-10-13,AM,Main Quad,Chemical & Life Sciences Laboratory_70,Yes,West,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-10-13,AM,Main Quad,Chemical & Life Sciences Laboratory_70,Yes,West,Black-and-white Warbler_Mniotilta varia,Dead
+2021-10-13,PM,North Quad,Campus Instructional Facility (Planned)_1545,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-10-13,PM,North Quad,Coordinated Science Laboratory_148,Yes,North,Unidentifiable,Dead
+2021-10-14,AM,North Quad,North Campus Parking Deck_1094,Yes,South,Unidentifiable,Dead
+2021-10-14,AM,North Quad,Beckman Institute_228,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-10-14,AM,North Quad,Electrical and Computer Engineering_409,Yes,West,Unidentifiable,Dead
+2021-10-14,AM,South Quad,Law Building_156,Yes,North,Swamp Sparrow_Melospiza georgiana,Dead
+2021-10-15,AM,North Quad,Beckman Institute_228,Yes,East,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-10-15,AM,North Quad,Coordinated Science Laboratory_148,Yes,West,Swamp Sparrow_Melospiza georgiana,Dead
+2021-10-15,AM,North Quad,Electrical and Computer Engineering_409,Yes,South,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-10-15,AM,South Quad,Siebel Center for Design_1517,Yes,South,Common Yellowthroat_Geothlypis trichas,Alive
+2021-10-15,AM,South Quad,Agricultural Engineering Sciences Building_8,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Alive
+2021-10-15,AM,Main Quad,Carl R. Woese Institute for Genomic Biology_1080,Yes,North,Nashville Warbler_Oreothlypis ruficapilla,Alive
+2021-10-15,PM,North Quad,Beckman Institute_228,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-10-15,PM,North Quad,Grainger Engineering Library Information Center_324,Yes,West,Common Yellowthroat_Geothlypis trichas,Alive
+2021-10-15,PM,North Quad,Campus Instructional Facility (Planned)_1545,Yes,East,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-10-15,PM,North Quad,Campus Instructional Facility (Planned)_1545,Yes,North,Nashville Warbler_Oreothlypis ruficapilla,Dead
+2021-10-16,AM,North Quad,Electrical and Computer Engineering_409,Yes,South,Yellow-bellied Sapsucker_Sphyrapicus varius,Alive
+2021-10-16,AM,North Quad,Campus Instructional Facility (Planned)_1545,Yes,East,Swamp Sparrow_Melospiza georgiana,Dead
+2021-10-16,AM,North Quad,Campus Instructional Facility (Planned)_1545,Yes,North,White-throated Sparrow_Zonotrichia albicollis,Alive
+2021-10-16,AM,Main Quad,Carl R. Woese Institute for Genomic Biology_1080,Yes,West,Nashville Warbler_Oreothlypis ruficapilla,Alive
+2021-10-16,AM,North Quad,Campus Instructional Facility (Planned)_1545,Yes,East,Tennessee Warbler_Oreothlypis peregrina,Alive
+2021-10-16,AM,North Quad,Electrical and Computer Engineering_409,Yes,South,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-10-17,AM,North Quad,Beckman Institute_228,Yes,East,House Wren_Troglodytes aedon,Alive
+2021-10-17,AM,North Quad,Beckman Institute_228,Yes,East,White-throated Sparrow_Zonotrichia albicollis,Alive
+2021-10-17,AM,South Quad,Business Instructional Facility_1206,Yes,South,Yellow-rumped Warbler_Setophaga coronata,Dead
+2021-10-17,AM,South Quad,Agricultural Engineering Sciences Building_8,Yes,West,Yellow-rumped Warbler_Setophaga coronata,Dead
+2021-10-13,PM,South Quad,Temple Hoyne Buell Hall_339,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-10-13,PM,South Quad,Law Building_156,Yes,North,Nashville Warbler_Oreothlypis ruficapilla,Dead
+2021-10-18,AM,North Quad,North Campus Parking Deck_1094,Yes,South,White-throated Sparrow_Zonotrichia albicollis,Dead
+2021-10-22,AM,North Quad,Micro and Nanotechnology Laboratory_237,Yes,East,Bay-breasted Warbler_Setophaga castanea,Dead
+2021-10-22,AM,North Quad,Beckman Institute_228,Yes,West,Brown Creeper_Certhia americana,Dead
+2021-10-22,AM,North Quad,Beckman Institute_228,Yes,North,White-throated Sparrow_Zonotrichia albicollis,Dead
+2021-10-22,AM,Other (explain in notes),Newmark Civil Engineering Building_24,Yes,East,American Woodcock_Scolopax minor,Alive
+2021-10-22,AM,Other (explain in notes),Newmark Civil Engineering Building_24,Yes,East,Hermit Thrush_Catharus guttatus,Dead
+2021-10-22,AM,South Quad,Business Instructional Facility_1206,Yes,East,Unidentifiable,Dead
+2021-10-22,AM,South Quad,Siebel Center for Design_1517,Yes,East,Savannah Sparrow_Passerculus sandwichensis,Dead
+2021-10-22,AM,South Quad,Siebel Center for Design_1517,Yes,East,Palm Warbler_Setophaga palmarum,Dead
+2021-10-26,AM,North Quad,Electrical and Computer Engineering_409,Yes,South,White-throated Sparrow_Zonotrichia albicollis,Dead
+2021-10-26,AM,North Quad,Beckman Institute_228,Yes,West,Golden-crowned Kinglet_Regulus satrapa,Dead
+2021-10-26,AM,North Quad,Beckman Institute_228,Yes,East,Northern Parula_Setophaga americana,Dead
+2021-10-26,AM,South Quad,Business Instructional Facility_1206,Yes,South,Nashville Warbler_Oreothlypis ruficapilla,Dead
+2021-10-26,AM,South Quad,Business Instructional Facility_1206,Yes,South,White-throated Sparrow_Zonotrichia albicollis,Dead
+2021-10-26,AM,South Quad,Siebel Center for Design_1517,Yes,South,Common Yellowthroat_Geothlypis trichas,Dead
+2021-10-26,AM,South Quad,Law Building_156,Yes,North,Golden-crowned Kinglet_Regulus satrapa,Dead
+2021-10-26,AM,South Quad,Law Building_156,Yes,East,Hermit Thrush_Catharus guttatus,Dead
+2021-10-26,AM,South Quad,Agricultural Engineering Sciences Building_8,Yes,West,White-throated Sparrow_Zonotrichia albicollis,Dead
+2021-10-26,AM,South Quad,Agricultural Engineering Sciences Building_8,Yes,West,American Robin_Turdus migratorius,Alive
+2021-10-27,AM,North Quad,Everitt Electrical & Computer Engineering Laboratory_37,Yes,North,Tennessee Warbler_Oreothlypis peregrina,Dead
+2021-10-27,AM,South Quad,Agricultural Engineering Sciences Building_8,Yes,West,Dark-eyed Junco_Junco hyemalis,Dead
+2021-10-27,PM,Main Quad,Chemistry Annex_10,Yes,East,Golden-crowned Kinglet_Regulus satrapa,Dead
+2021-10-27,PM,North Quad,Beckman Institute_228,Yes,West,Golden-crowned Kinglet_Regulus satrapa,Dead
+2021-11-02,AM,North Quad,Campus Instructional Facility (Planned)_1545,Yes,East,American Goldfinch_Spinus tristis,Dead
+2021-11-02,AM,North Quad,Siebel Center for Computer Science_563,Yes,North,Red-breasted Nuthatch_Sitta canadensis,Dead
+2021-11-02,AM,South Quad,Siebel Center for Design_1517,Yes,East,Dark-eyed Junco_Junco hyemalis,Dead
+2021-11-02,AM,South Quad,Krannert Art Museum_220,Yes,South,Song Sparrow_Melospiza melodia,Dead
+2021-11-02,AM,South Quad,Agricultural Engineering Sciences Building_8,Yes,East,Red-breasted Nuthatch_Sitta canadensis,Dead
+2021-11-02,PM,Other (explain in notes),Foreign Languages Building_172,Yes,East,Brown Creeper_Certhia americana,Dead
+2021-11-06,AM,North Quad,Campus Instructional Facility (Planned)_1545,Yes,North,American Goldfinch_Spinus tristis,Dead
+2021-11-06,AM,North Quad,Micro and Nanotechnology Laboratory_237,Yes,East,Dark-eyed Junco_Junco hyemalis,Dead
+2021-11-06,AM,North Quad,Beckman Institute_228,Yes,North,White-throated Sparrow_Zonotrichia albicollis,Dead
+2021-11-06,AM,South Quad,Agricultural Engineering Sciences Building_8,Yes,West,White-throated Sparrow_Zonotrichia albicollis,Dead
+2021-11-06,AM,South Quad,Education Building_160,Yes,West,American Robin_Turdus migratorius,Dead
+2021-11-17,AM,North Quad,Beckman Institute_228,Yes,North,Dark-eyed Junco_Junco hyemalis,Dead
+2021-11-17,AM,Other (explain in notes),Civil Engineering Hydrosystems Lab_152,Yes,West,Unidentifiable,Dead
+2021-11-17,AM,South Quad,Siebel Center for Design_1517,Yes,South,White-crowned Sparrow_Zonotrichia leucophrys,Dead
+2021-11-17,AM,South Quad,Siebel Center for Computer Science_563,Yes,West,Dark-eyed Junco_Junco hyemalis,Dead
+2021-11-17,AM,South Quad,Agricultural Engineering Sciences Building_8,Yes,West,House Finch_Haemorhous mexicanus,Dead
+2021-11-17,AM,Main Quad,Chemical & Life Sciences Laboratory_70,Yes,West,Dark-eyed Junco_Junco hyemalis,Dead
+2021-12-01,AM,South Quad,Business Instructional Facility_1206,Yes,South,Dark-eyed Junco_Junco hyemalis,Dead
+2021-12-01,AM,South Quad,Siebel Center for Design_1517,Yes,North,White-throated Sparrow_Zonotrichia albicollis,Dead
+2021-12-01,AM,South Quad,Siebel Center for Design_1517,Yes,East,American Tree Sparrow_Spizelloides arborea,Dead
+2021-12-01,AM,South Quad,Temple Hoyne Buell Hall_339,Yes,West,Dark-eyed Junco_Junco hyemalis,Dead
+2021-12-01,AM,South Quad,Agricultural Engineering Sciences Building_8,Yes,West,House Finch_Haemorhous mexicanus,Dead
+2021-12-01,PM,North Quad,Beckman Institute_228,Yes,East,Dark-eyed Junco_Junco hyemalis,Dead
+2021-12-07,PM,South Quad,Agricultural Engineering Sciences Building_8,Yes,West,House Finch_Haemorhous mexicanus,Dead
+2021-12-07,PM,South Quad,Agricultural Engineering Sciences Building_8,Yes,West,House Finch_Haemorhous mexicanus,Dead
